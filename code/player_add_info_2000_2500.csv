@@ -1,0 +1,502 @@
+,player_name,year,team,player_position,player_height,player_weight,process_status
+0,Landon Clement,2009,UNC Greensboro,Guard,188,81,Success
+1,Rob Keefer,2009,Lehigh,Guard,190,83,Success
+2,Darryl Shazier,2009,Bucknell,Guard,183,80,Success
+3,G.W. Boon,2009,Bucknell,Guard,193,97,Success
+4,Rickey Royal,2009,Army,Guard,190,78,Success
+5,Willie Veasley,2009,Butler,Guard,190,93,Success
+6,Nathan Hedgecock,2009,Army,Guard,188,88,Success
+7,Jeremy Hence,2009,Army,Forward,190,92,Success
+8,Kodi Augustus,2009,Mississippi St.,Forward,203,101,Success
+9,Will Figures,2009,Northern Colorado,Guard,175,70,Success
+10,Patrick Patterson,2009,Kentucky,Forward,206,106,Success
+11,Ravern Johnson,2009,Mississippi St.,Guard,201,79,Success
+12,Riley Benock,2009,Mississippi St.,Guard,193,87,Success
+13,Brandon Bolen,2009,Mississippi St.,Guard,190,94,Success
+14,Jerai Grant,2009,Clemson,Forward,203,104,Success
+15,Trevon Hughes,2009,Wisconsin,Guard,185,87,Success
+16,Zamal Nixon,2009,Houston,Guard,185,77,Success
+17,Brett Valentyn,2009,Wisconsin,Guard,193,88,Success
+18,Tom Kopko,2009,Notre Dame,Guard,188,84,Success
+19,Marlon Day,2009,Northwestern,Forward,196,102,Success
+20,Neal Kingman,2009,Northern Colorado,Forward,201,99,Success
+21,Jeff Brooks,2009,Penn St.,Forward,203,90,Success
+22,Cameron Lewis,2009,Penn,Forward,203,102,Success
+23,Stanley Pringle,2009,Penn St.,Guard,185,81,Success
+24,Michael Patton,2009,Northern Illinois,Guard,178,85,Success
+25,Devon Beitzel,2009,Northern Colorado,Guard,185,81,Success
+26,Abdulai Jalloh,2009,James Madison,Guard,188,86,Success
+27,Chris Miles,2009,BYU,Center,211,106,Success
+28,Demontez Stitt,2009,Clemson,Guard,188,81,Success
+29,Gene Johnson,2009,Morgan St.,Forward,201,99,Success
+30,Jermaine Bolden,2009,Morgan St.,Guard,170,79,Success
+31,Nick Sidorakis,2009,Oklahoma St.,Guard,193,88,Success
+32,Adrian Moss,2009,IUPUI,Forward,206,112,Success
+33,Kyron Stokes,2009,Oral Roberts,Guard,196,95,Success
+34,Joe Moore,2009,Oral Roberts,Guard,183,86,Success
+35,David Nurse,2009,Western Illinois,Guard,190,88,Success
+36,Arsenio Mims,2009,Western Illinois,Forward,190,90,Success
+37,Andres Torres,2009,Hartford,Guard,178,77,Success
+38,Jawaan Alston,2009,Buffalo,Forward,203,102,Success
+39,Josh Rivers,2009,Western Illinois,Guard,183,77,Success
+40,Brian Addison,2009,Buffalo,Forward,203,102,Success
+41,Aaron Bond,2009,Davidson,Guard,193,86,Success
+42,Mouhamed Lo,2009,Toledo,Forward,203,104,Success
+43,Justin Anyijong,2009,Toledo,Forward,206,92,Success
+44,Matthew Bryan-Amaning,2009,Washington,Forward,206,108,Success
+45,Booker Woodfox,2009,Creighton,Guard,185,83,Success
+46,Kaleb Korver,2009,Creighton,Guard,196,88,Success
+47,Cavel Witter,2009,Creighton,Guard,180,76,Success
+48,P'Allen Stinnett,2009,Creighton,Guard,190,83,Success
+49,Sam Muldrow,2009,South Carolina,Forward,206,103,Success
+50,Steven Moore,2009,Arkansas Little Rock,Guard,183,81,Success
+51,Steve Robinson,2009,Quinnipiac,Guard,183,81,Success
+52,Austin Johnson,2009,Oklahoma,Guard,193,88,Success
+53,Luke Devine,2009,Fordham,Center,208,115,Success
+54,Taylor Griffin,2009,Oklahoma,Forward,201,107,Success
+55,A.J. Abrams,2009,Texas,Guard,180,73,Success
+56,Durrell Summers,2009,Michigan St.,Guard,196,92,Success
+57,Kalin Lucas,2009,Michigan St.,Guard,185,88,Success
+58,Colin Cunningham,2009,Holy Cross,Forward,198,99,Success
+59,Jared Mintz,2009,Lafayette,Forward,206,110,Success
+60,Darion Benbow,2009,Lafayette,Forward,201,81,Success
+61,Jeff Kari,2009,Lafayette,-100,-100,-100,Failure: Other Error
+62,Adam McCoy,2009,North Texas,Guard,193,86,Success
+63,Ronald Douglas,2009,South Alabama,Forward,203,102,Success
+64,Devin Ginty,2009,San Diego,Guard,188,86,Success
+65,Kalem Porterie,2009,Northwestern St.,Forward,201,113,Success
+66,Josh Young,2009,Drake,Guard,185,77,Success
+67,Jodie Meeks,2009,Kentucky,Guard,196,94,Success
+68,Sherron Collins,2009,Kansas,Guard,180,92,Success
+69,Casiem Drummond,2009,Villanova,Center,208,124,Success
+70,Ray Reese,2009,Tulsa,Forward,196,99,Success
+71,Jeff Foote,2009,Cornell,Center,213,120,Success
+72,Joevan Catron,2009,Oregon,Forward,198,111,Success
+73,Ryan Staudacher,2009,Montana,Guard,193,95,Success
+74,Brennan Bechard,2009,Kansas,Guard,183,83,Success
+75,Paul Noonan,2009,Boise St.,Forward,201,97,Success
+76,Ryan White,2009,Texas St.,Guard,178,79,Success
+77,Michael Porter,2009,Kentucky,Guard,190,89,Success
+78,Tremayne Russell,2009,FIU,Guard,185,81,Success
+79,Quincy Pondexter,2009,Washington,Forward,201,97,Success
+80,Tasheed Carr,2009,Saint Joseph's,Guard,193,95,Success
+81,Perry Stevenson,2009,Kentucky,Forward,206,93,Success
+82,Brandon Roberts,2009,Louisiana Monroe,Guard,183,81,Success
+83,Tyrece Gibbs,2009,New Hampshire,Guard,190,92,Success
+84,Junior Bernal,2009,Maine,Guard,196,90,Success
+85,Tony Hooper,2009,Louisiana Monroe,Guard,180,79,Success
+86,Adrian Oliver,2009,San Jose St.,Forward,198,95,Success
+87,Gary Lee,2009,Maryland Eastern Shore,Forward,196,90,Success
+88,Dorenzo Hudson,2009,Virginia Tech,Guard,196,99,Success
+89,Rod Bryant,2009,Mississippi St.,Guard,185,74,Success
+90,Damian Henderson,2009,Texas Southern,Forward,190,90,Success
+91,Sterling Williams,2009,Northwestern,Guard,196,90,Success
+92,John Lindner,2009,Connecticut,Forward,196,120,Success
+93,Vance Cooksey,2009,Youngstown St.,Guard,180,77,Success
+94,Deonte Roberts,2009,Milwaukee,Guard,190,86,Success
+95,Lorrenzo Wade,2009,San Diego St.,Forward,198,102,Success
+96,John Smith,2009,Alabama A&M,Forward,198,117,Success
+97,Dan Boudler,2009,Youngstown St.,Forward,203,108,Success
+98,Bryquis Perine,2009,Green Bay,Guard,190,81,Success
+99,Chad Webster,2009,North Carolina A&T,Center,208,95,Success
+100,Brandon Moore,2009,Eastern Washington,Center,208,97,Success
+101,Mike Rose,2009,Eastern Kentucky,Guard,190,83,Success
+102,Brett James,2009,Elon,Guard,196,83,Success
+103,Ola Atoyebi,2009,Elon,Forward,203,99,Success
+104,C.J. Lee,2009,Michigan,Guard,185,81,Success
+105,Herbie Allen,2009,Fairfield,Guard,180,77,Success
+106,T.J. Gwynn,2009,VCU,Forward,193,92,Success
+107,Ceslovas Kucinskas,2009,Coppin St.,Center,203,111,Success
+108,Tyrone Kent,2009,Toledo,Guard,196,95,Success
+109,Oludele Doherty,2009,Norfolk St.,Forward,203,102,Success
+110,Sollie Norwood,2009,Texas Southern,Guard,188,74,Success
+111,Jake Diebler,2009,Valparaiso,Guard,190,81,Success
+112,Urule Igbavboa,2009,Valparaiso,Forward,203,104,Success
+113,Keith Cothran,2009,Rhode Island,Guard,193,88,Success
+114,Kevin Tiggs,2009,East Tennessee St.,Forward,193,95,Success
+115,Preston Davis,2009,Stephen F. Austin,Guard,188,83,Success
+116,Keaton Grant,2009,Purdue,Guard,193,91,Success
+117,Peter Stein,2009,William & Mary,Forward,206,106,Success
+118,John Williams,2009,UNC Asheville,-100,-100,-100,Failure: Other Error
+119,Mantoris Robinson,2009,Winthrop,Forward,196,92,Success
+120,Jovonni Shuler,2009,Savannah St.,Guard,193,81,Success
+121,Jacques Jones,2009,Texas Southern,Forward,201,90,Success
+122,Eric Devendorf,2009,Syracuse,Guard,193,81,Success
+123,Lewis Clinch,2009,Georgia Tech,Guard,190,88,Success
+124,Alex Smith,2009,William & Mary,Forward,196,113,Success
+125,Mickey Perry,2009,Dayton,Guard,188,89,Success
+126,Marcus Landry,2009,Wisconsin,Forward,201,104,Success
+127,Joe Krabbenhoft,2009,Wisconsin,Forward,201,99,Success
+128,Hank Wierson,2009,Southern Miss,Guard,180,74,Success
+129,Ian O'Leary,2009,Saint Mary's,Forward,201,102,Success
+130,Diamon Simpson,2009,Saint Mary's,Forward,203,108,Success
+131,Brandon Long,2009,UT Arlington,Guard,185,81,Success
+132,Anthony Vereen,2009,UT Arlington,Forward,201,111,Success
+133,Jay Greene,2009,UMBC,Guard,173,72,Success
+134,Craig Moore,2009,Northwestern,Guard,193,83,Success
+135,Devon Austin,2009,Manhattan,Guard,198,90,Success
+136,Tyler Newbold,2009,Utah St.,Guard,196,95,Success
+137,John Hopson,2009,Middle Tennessee,Guard,178,81,Success
+138,Daniel Faris,2009,New Mexico,Forward,206,111,Success
+139,Jimmy Langhurst,2009,Robert Morris,Guard,180,83,Success
+140,Dallas Green,2009,Robert Morris,Forward,203,95,Success
+141,James Feldeine,2009,Quinnipiac,Guard,193,86,Success
+142,Tayvon Jackson,2009,Mount St. Mary's,Forward,201,92,Success
+143,Jeremy Goode,2009,Mount St. Mary's,Guard,175,77,Success
+144,Will Holland,2009,Mount St. Mary's,Guard,193,97,Success
+145,Cameron James,2009,Stephen F. Austin,Guard,185,77,Success
+146,Daniel Puckett,2009,Tulane,Forward,201,90,Success
+147,Saj El-Amin,2009,Air Force,Guard,188,92,Success
+148,Mark Lohuis,2009,Stetson,Guard,193,90,Success
+149,Courtney Beasley,2009,Southern Miss,Guard,190,95,Success
+150,Brandon White,2009,Southern,Guard,190,83,Success
+151,Trevor Ferguson,2009,North Carolina St.,Guard,196,86,Success
+152,Ryan Butler,2009,Richmond,-1,-1,-1,Failure: Did not find player
+153,Craig Craft,2009,Southern Miss,Guard,190,86,Success
+154,David McClure,2009,Duke,Forward,198,97,Success
+155,Adam Lonon,2009,VMI,Guard,180,79,Success
+156,Sean Smith,2009,UNC Asheville,Forward,201,97,Success
+157,Darryl Proctor,2009,UMBC,Forward,193,104,Success
+158,Carl Josey,2009,VMI,Forward,196,88,Success
+159,Chris Alvarez,2009,Northeastern,Forward,203,102,Success
+160,Sead Odzic,2009,Illinois St.,Guard,190,87,Success
+161,Georges Fotso,2009,Murray St.,Center,203,108,Success
+162,Eugene Spates,2009,Northeastern,Forward,203,99,Success
+163,Brandon Ewing,2009,Wyoming,Guard,188,86,Success
+164,Baptiste Bataille,2009,Northeastern,Guard,178,85,Success
+165,Montez Downey,2009,UNC Wilmington,Guard,196,102,Success
+166,Brett Harvey,2009,Loyola MD,Guard,183,79,Success
+167,Gerald Lee,2009,Old Dominion,Center,206,113,Success
+168,Travis Brown,2009,Northern Iowa,Forward,193,0,Success
+169,Ryan Bacon,2009,Saint Peter's,Forward,201,92,Success
+170,Reggie Holmes,2009,Morgan St.,Guard,193,81,Success
+171,Levance Fields,2009,Pittsburgh,Guard,178,86,Success
+172,Bobby Riddell,2009,Purdue,Guard,175,76,Success
+173,Jonathan Inman,2009,Alabama A&M,Forward,196,102,Success
+174,Jamar Greene,2009,Boise St.,Guard,183,90,Success
+175,Justin Howerton,2009,North Texas,Center,208,108,Success
+176,Ian Andersen,2009,Charlotte,Guard,193,90,Success
+177,Andrew Darko,2009,Texas A&M,Guard,185,79,Success
+178,Terrence Oglesby,2009,Clemson,Guard,188,86,Success
+179,Adrian Bowie,2009,Maryland,Guard,188,86,Success
+180,David Pearman,2009,Maryland,Forward,198,90,Success
+181,C.J. Clark,2009,Northwestern St.,Forward,201,88,Success
+182,Charles Dewhurst,2009,Charlotte,Guard,196,86,Success
+183,Mike Davis,2009,Seton Hall,Center,208,104,Success
+184,Ricky Harris,2009,Massachusetts,Guard,188,79,Success
+185,Quinn Brownfield,2009,VMI,Forward,201,88,Success
+186,Daniel Hayles,2009,South Alabama,Guard,196,95,Success
+187,Sam Atupem,2009,Mount St. Mary's,Forward,201,108,Success
+188,Bryce Simon,2009,American,Forward,198,90,Success
+189,Eric Bell,2009,Stephen F. Austin,Guard,168,68,Success
+190,Chaisson Allen,2009,Northeastern,Guard,193,86,Success
+191,Nick Hendra,2009,American,Guard,190,92,Success
+192,Frank Borden,2009,American,Guard,193,81,Success
+193,Senario Hillman,2009,Alabama,Guard,188,88,Success
+194,Joey Cantafio,2009,VMI,Guard,168,79,Success
+195,Tre Smith,2009,Utah,Guard,178,77,Success
+196,Mark Krebs,2009,Kentucky,Guard,196,93,Success
+197,Luis Augusto,2009,Idaho,Forward,203,111,Success
+198,Theron Wilson,2009,Bradley,Forward,196,90,Success
+199,Jerome Davis,2009,Jackson St.,Forward,196,0,Success
+200,Brandon Fields,2009,Nevada,Guard,193,86,Success
+201,Ray Kraemer,2009,Nevada,Guard,193,90,Success
+202,Armon Johnson,2009,Nevada,Guard,190,88,Success
+203,Spencer Johnson,2009,UMKC,Forward,198,97,Success
+204,Herb Pope,2009,Seton Hall,Forward,203,107,Success
+205,Zach Graham,2009,Mississippi,Guard,198,98,Success
+206,Gary Clark,2009,Wake Forest,Guard,193,90,Success
+207,Chris Warren,2009,Mississippi,Guard,190,79,Success
+208,Maurice Miller,2009,Georgia Tech,Guard,188,85,Success
+209,Tim Carroll,2009,Akron,Forward,190,97,Success
+210,Grant Parker,2009,Air Force,Forward,201,99,Success
+211,Drew Housman,2009,Harvard,Guard,180,83,Success
+212,Andrew Pusar,2009,Harvard,Guard,188,90,Success
+213,Jamar Jenkins,2009,Radford,Center,198,98,Success
+214,Kevin Schmidt,2009,UCLA,Forward,203,99,Success
+215,Anthony Byrd,2009,Toledo,Guard,185,74,Success
+216,Kenard Moore,2009,Southeast Missouri St.,Guard,183,77,Success
+217,Evan Harris,2009,Harvard,Forward,203,104,Success
+218,James Granstra,2009,Western Illinois,Forward,208,111,Success
+219,Diego Kapelan,2009,McNeese St.,Guard,188,88,Success
+220,Adrien Garr,2009,McNeese St.,Guard,188,81,Success
+221,Caleb Brown,2009,Austin Peay,Guard,183,77,Success
+222,Jeff Jones,2009,Virginia,Forward,203,99,Success
+223,Demetrius Nelson,2009,The Citadel,Forward,203,113,Success
+224,Mike Scott,2009,Virginia,Guard,185,77,Success
+225,Lance Kearse,2009,VCU,Forward,198,102,Success
+226,Graham Hatch,2009,Wichita St.,Guard,193,93,Success
+227,Ramon Clemente,2009,Wichita St.,Forward,198,104,Success
+228,Aaron Ellis,2009,Wichita St.,Forward,206,94,Success
+229,Mac Peterson,2009,San Jose St.,Guard,190,88,Success
+230,Mantas Griskenas,2009,Wichita St.,Forward,201,100,Success
+231,Bret Michael,2009,Wichita St.,Guard,183,78,Success
+232,Rogers Barnes,2009,Morgan St.,Guard,188,86,Success
+233,Michael Orock,2009,Wagner,Forward,201,104,Success
+234,Damian Johnson,2009,Minnesota,Forward,201,92,Success
+235,Jamal Abu-Shamala,2009,Minnesota,Guard,196,95,Success
+236,Chris Lowe,2009,Massachusetts,Guard,183,81,Success
+237,Paul Johnson,2009,La Salle,Forward,198,88,Success
+238,Julius Ingram,2009,Southern,Forward,198,95,Success
+239,Will Scott,2009,Louisville,Guard,193,83,Success
+240,Kim Tillie,2009,Utah,Forward,211,104,Success
+241,Kevin Payton,2009,Minnesota,Forward,198,97,Success
+242,Scott Hoffman,2009,UNLV,Guard,190,81,Success
+243,Michael McConathy,2009,Northwestern St.,Guard,175,72,Success
+244,Nathan Walkup,2009,Texas A&M,Forward,201,95,Success
+245,B.J. Holmes,2009,Texas A&M,Guard,180,79,Success
+246,Denzel Bowles,2009,Texas A&M,Forward,208,113,Success
+247,Derrek Lewis,2009,Texas A&M,Guard,196,88,Success
+248,Kenny Ware,2009,Troy,Forward,196,77,Success
+249,Michael Vogler,2009,Troy,Guard,185,81,Success
+250,Tom Jervis,2009,Troy,Center,213,104,Success
+251,Jake Robinson,2009,Western Carolina,Forward,203,92,Success
+252,Mario Telfair,2009,Troy,Forward,198,88,Success
+253,An'Juan Wilderness,2009,Charlotte,Forward,198,99,Success
+254,Eddie Castellanos,2009,Stony Brook,Guard,185,81,Success
+255,Marqus Blakely,2009,Vermont,Forward,196,102,Success
+256,Patrick Christopher,2009,California,Guard,196,99,Success
+257,Jonathan Rice,2009,Winthrop,Forward,196,104,Success
+258,Charles Boozer,2009,Iowa St.,Guard,190,88,Success
+259,Josh Mayo,2009,Illinois Chicago,Guard,180,79,Success
+260,Jeremy Caldwell,2009,Jackson St.,Center,203,113,Success
+261,Jovan Ignjatovic,2009,Illinois Chicago,Forward,206,108,Success
+262,D'Aundray Brown,2009,Cleveland St.,Guard,193,88,Success
+263,Greg Danish,2009,La Salle,Guard,178,77,Success
+264,Joey Clawson,2009,Ball St.,Guard,193,87,Success
+265,David Hicks,2009,LIU Brooklyn,Guard,185,88,Success
+266,Ryan Sterling,2009,Loyola Chicago,Guard,193,92,Success
+267,Cooper Land,2009,Wright St.,Forward,203,104,Success
+268,Gavin Horne,2009,Wright St.,Forward,203,99,Success
+269,Norris Cole,2009,Cleveland St.,Guard,188,77,Success
+270,Kaimondre Owes,2009,Maine,Guard,190,95,Success
+271,Tory Jackson,2009,Notre Dame,Guard,180,88,Success
+272,Dennis Horner,2009,North Carolina St.,Forward,206,102,Success
+273,Brian McKenzie,2009,Providence,Guard,193,92,Success
+274,Jim Veronick,2009,Connecticut,Forward,203,90,Success
+275,Billy Parrish,2009,Eastern Illinois,Forward,193,96,Success
+276,Dairese Gary,2009,New Mexico,Guard,185,92,Success
+277,Zach Ferrell,2009,Chattanooga,Guard,185,74,Success
+278,Darren Kent,2009,Kansas St.,Forward,211,104,Success
+279,Kevin Egee,2009,Penn,Guard,190,79,Success
+280,Mark Titus,2009,Ohio St.,Guard,193,97,Success
+281,Justin Payne,2009,Nicholls St.,Guard,178,77,Success
+282,Nic Wise,2009,Arizona,Guard,178,81,Success
+283,Quincy Hall,2009,Grambling St.,Center,213,0,Success
+284,Kleon Penn,2009,McNeese St.,Center,211,129,Success
+285,Jonathan Han,2009,Fairfield,Guard,183,72,Success
+286,Randy Hampton,2009,Howard,Forward,196,86,Success
+287,Joe Ford,2009,Pacific,Forward,198,95,Success
+288,Casey Neimeyer,2009,Pacific,Forward,203,108,Success
+289,John Gooden,2009,St. Francis NY,Forward,198,99,Success
+290,Giedrius Knysas,2009,Charleston Southern,Forward,206,96,Success
+291,Jamaal Womack,2009,St. Francis NY,Guard,173,77,Success
+292,Nicchaeus Doaks,2009,Chattanooga,Forward,201,108,Success
+293,Lucas Steijn,2009,Idaho St.,Center,211,108,Success
+294,Khalil Hartwell,2009,Chattanooga,Forward,203,100,Success
+295,Modou Niang,2009,Utah St.,Center,208,108,Success
+296,Jerel Hastings,2009,Albany,Forward,196,97,Success
+297,Ben Nelson,2009,Nebraska,Forward,203,104,Success
+298,Jonathan Cothran,2009,North Carolina A&T,Forward,201,97,Success
+299,Ryan Thomas,2009,Central Michigan,Guard,188,0,Success
+300,Festus Ezeli,2009,Vanderbilt,Center,211,115,Success
+301,Devron Bostick,2009,Minnesota,Guard,196,99,Success
+302,Matt Roth,2009,Indiana,Guard,190,83,Success
+303,Tom Pritchard,2009,Indiana,Forward,206,111,Success
+304,Lloyd Phillips,2009,Illinois St.,Guard,178,77,Success
+305,Martiz Washington,2009,Longwood,Guard,183,79,Success
+306,Brad Farrell,2009,Loyola MD,Forward,196,97,Success
+307,Nick Mason,2009,Arkansas,Guard,178,72,Success
+308,Darryl Monroe,2009,George Mason,Forward,201,124,Success
+309,Conroy Witter,2009,FIU,-1,-1,-1,Failure: Did not find player
+310,Justin Werner,2009,Kansas St.,Guard,190,86,Success
+311,Buchi Awaji,2009,Kansas St.,Guard,190,83,Success
+312,Mitchell Watt,2009,Buffalo,Forward,208,102,Success
+313,Titus Robinson,2009,Buffalo,Forward,201,95,Success
+314,Lionel Foster,2009,Arkansas Little Rock,Guard,185,86,Success
+315,Curtis Jackson,2009,Arkansas Little Rock,Guard,185,81,Success
+316,Gerard Anderson,2009,Cal St. Fullerton,Forward,198,92,Success
+317,Adam Thomas,2009,Cal St. Fullerton,Center,218,106,Success
+318,Keith Gabriel,2009,VMI,Guard,193,83,Success
+319,Ron Burks,2009,VMI,Forward,193,97,Success
+320,Jerry Stangline,2009,Alabama St.,Guard,188,79,Success
+321,Wayne Whiting,2009,VMI,Center,201,108,Success
+322,Michael Sparks,2009,VMI,Guard,193,88,Success
+323,Dunnell Webb,2009,Florida A&M,Forward,196,88,Success
+324,Jeffery Middlebrooks,2009,Alabama St.,Guard,185,77,Success
+325,Josh Davis,2009,Florida A&M,Forward,203,106,Success
+326,Brandon Bryant,2009,Florida A&M,Guard,190,77,Success
+327,Domnique Quarles,2009,Western Carolina,Guard,183,77,Success
+328,Adrian Gailliard,2009,Western Carolina,Forward,201,102,Success
+329,Harouna Mutombo,2009,Western Carolina,Guard,193,90,Success
+330,Joey Parker,2009,Western Carolina,Guard,185,88,Success
+331,Keaton Cole,2009,Western Carolina,Guard,178,77,Success
+332,Greg Avery,2009,Western Carolina,Guard,193,77,Success
+333,Kendall Russell,2009,Western Carolina,Forward,198,92,Success
+334,Antoine Childs,2009,Western Carolina,Forward,198,92,Success
+335,Sandy Perry,2009,Georgia Southern,Forward,201,99,Success
+336,Colby Wohlleb,2009,Georgia Southern,Guard,198,95,Success
+337,Brandon Rose,2009,Yale,Guard,190,92,Success
+338,Markieff Morris,2009,Kansas,Center,208,111,Success
+339,Chad Wilson,2009,Delaware St.,Guard,183,86,Success
+340,Jared Maree,2009,UT Rio Grande Valley,Guard,190,92,Success
+341,Jason Jensen,2009,UT Rio Grande Valley,Guard,193,81,Success
+342,Riley Hunley,2009,Tennessee Tech,Guard,190,83,Success
+343,Alfred Jones,2009,Tennessee Tech,-1,-1,-1,Failure: Did not find player
+344,Kevin Murphy,2009,Tennessee Tech,Guard,201,83,Success
+345,Zach Bailey,2009,Tennessee Tech,Guard,185,79,Success
+346,Isaac Sosa,2009,UCF,Guard,190,81,Success
+347,P.J. Gaynor,2009,UCF,Forward,203,99,Success
+348,Lucas Kuipers,2009,Rice,Forward,203,98,Success
+349,Nate Schwarze,2009,Rice,Guard,180,82,Success
+350,Emerson Herndon,2009,Rice,Forward,206,106,Success
+351,A.J. Rompza,2009,UCF,Guard,175,77,Success
+352,Will Weathers,2009,UCF,Guard,185,77,Success
+353,Trent Rogers,2009,Tulane,Guard,190,77,Success
+354,Kendall Timmons,2009,Tulane,Guard,196,97,Success
+355,Sean Coleman,2009,Houston,Forward,203,95,Success
+356,Johnny Moran,2009,Northern Iowa,Guard,185,86,Success
+357,Isaiah Rhine,2009,Missouri St.,Center,208,110,Success
+358,Ali Farokhmanesh,2009,Northern Iowa,Guard,183,86,Success
+359,Anthony James,2009,Northern Iowa,Guard,183,81,Success
+360,Jordan Cyphers,2009,Utah,Guard,193,81,Success
+361,Eric Massey,2009,Tennessee Martin,Center,206,127,Success
+362,Roburt Sallie,2009,Memphis,Guard,196,88,Success
+363,Ryan Darling,2009,Cal Poly,Forward,201,97,Success
+364,Kwasi Mensah,2009,Cal St. Fullerton,Guard,190,83,Success
+365,Jonas Lalehzadeh,2009,UC Irvine,Guard,196,92,Success
+366,Rashaad Ubah,2009,UC Irvine,Forward,198,95,Success
+367,Andrey Semenov,2009,James Madison,Forward,201,90,Success
+368,Scott Renkin,2009,James Madison,Guard,190,86,Success
+369,Julius Wells,2009,James Madison,Forward,196,92,Success
+370,Johnny Stephene,2009,Liberty,Guard,185,90,Success
+371,Da'Quan Cook,2009,St. Bonaventure,Forward,185,77,Success
+372,Marc Van Burck,2009,Cornell,Center,211,115,Success
+373,Marco Ramos,2009,Weber St.,Forward,201,95,Success
+374,Damian Lillard,2009,Weber St.,Guard,188,83,Success
+375,Jesse Sanders,2009,Liberty,Guard,190,90,Success
+376,Carter McMasters,2009,Liberty,Center,211,95,Success
+377,Tre'Von Willis,2009,UNLV,Guard,193,88,Success
+378,Pierre Henderson-Niles,2009,Memphis,Forward,203,136,Success
+379,Scott Grote,2009,Wright St.,Forward,198,95,Success
+380,Robert Mitchell,2009,Seton Hall,Forward,198,81,Success
+381,Joe Dukes,2009,Georgia St.,Guard,185,79,Success
+382,Eric Coblentz,2009,Akron,Guard,188,86,Success
+383,Steve Swiech,2009,Akron,Center,206,113,Success
+384,Ronnie Steward,2009,Akron,Guard,178,79,Success
+385,Mark St. Fort,2009,Savannah St.,Forward,198,95,Success
+386,James Williams,2009,Norfolk St.,Guard,193,86,Success
+387,Aleek Pauline,2009,Norfolk St.,Guard,185,90,Success
+388,Igor Mocevic,2009,IPFW,Forward,206,108,Success
+389,Jake Drum,2009,Auburn,Forward,196,114,Success
+390,Drew Rodriguez,2009,Toledo,Guard,185,86,Success
+391,Jay Shunnar,2009,Toledo,Guard,185,79,Success
+392,James Fields,2009,Georgia St.,Guard,193,82,Success
+393,Frankie Sullivan,2009,Auburn,Guard,185,93,Success
+394,Reggie Middleton,2009,Winthrop,Guard,185,88,Success
+395,Raymond Davis,2009,Winthrop,Forward,193,79,Success
+396,Andre Jones,2009,Winthrop,Guard,188,88,Success
+397,Justin Wesolowski,2009,Northern Colorado,Forward,201,86,Success
+398,Scott Thompson,2009,Santa Clara,Center,213,113,Success
+399,Lance Pevehouse,2009,Sam Houston St.,Guard,188,83,Success
+400,Kendrell Thompson,2009,Sam Houston St.,Guard,160,92,Success
+401,Girod Adams,2009,Stephen F. Austin,Guard,178,77,Success
+402,Walt Harris,2009,Stephen F. Austin,Guard,196,83,Success
+403,Corey Allmond,2009,Sam Houston St.,Guard,185,81,Success
+404,Antuan Bootle,2009,Sam Houston St.,Center,201,120,Success
+405,Preston Brown,2009,Sam Houston St.,Forward,198,102,Success
+406,Drae Murray,2009,Sam Houston St.,Guard,178,68,Success
+407,Zach Williams,2009,Stephen F. Austin,Forward,201,108,Success
+408,Jarrod McDaniel,2009,Stephen F. Austin,Guard,173,77,Success
+409,Jordan Taylor,2009,Wisconsin,Guard,185,88,Success
+410,Ian Markolf,2009,Wisconsin,Center,216,117,Success
+411,Eugene Phelps,2009,Long Beach St.,Forward,201,102,Success
+412,Ryan Bailey,2009,Washington St.,Guard,188,93,Success
+413,Ben Eaves,2009,Rhode Island,Forward,201,102,Success
+414,Jon Ogolo,2009,Elon,Guard,188,95,Success
+415,Daniel Deane,2009,Oregon St.,Forward,203,111,Success
+416,Devin Hill,2009,DePaul,Forward,206,104,Success
+417,Jeremiah Kelly,2009,DePaul,Guard,183,75,Success
+418,Max Huc,2009,Princeton,Guard,188,88,Success
+419,John Comfort,2009,Princeton,Forward,201,89,Success
+420,Patrick Saunders,2009,Princeton,Forward,203,92,Success
+421,Juan Fernandez,2009,Temple,Guard,193,88,Success
+422,Wes Libuit,2009,Loyola Marymount,-1,-1,-1,Failure: Did not find player
+423,Matt Bucklin,2009,Georgia,Guard,183,77,Success
+424,Ted Connolly,2009,Navy,Guard,188,91,Success
+425,Jeff Harris,2009,Holy Cross,Guard,178,68,Success
+426,Landon Slone,2009,Kentucky,Guard,190,85,Success
+427,Mark Halsell,2009,Kentucky,Guard,180,81,Success
+428,Chris Bass,2009,LSU,Guard,185,86,Success
+429,Blaine Booher,2009,Oklahoma St.,-1,-1,-1,Failure: Did not find player
+430,Kris Joseph,2009,Syracuse,Forward,201,95,Success
+431,Chris Busch,2009,Eastern Washington,Forward,198,99,Success
+432,Jan van der Kooij,2009,Longwood,Forward,201,102,Success
+433,David Jackson,2009,Louisiana Tech,Forward,203,90,Success
+434,Chris Pontarolo-Maag,2009,Gonzaga,Guard,180,79,Success
+435,Da'Veed Dildy,2009,Stanford,Guard,196,86,Success
+436,Will Paul,2009,Stanford,Center,208,111,Success
+437,Mac Hopson,2009,Idaho,Guard,188,88,Success
+438,Joe Mackey,2009,Bucknell,Forward,198,0,Success
+439,Joshua Gregory,2009,Tennessee St.,Center,196,102,Success
+440,Matt McFadden,2009,William & Mary,Guard,188,83,Success
+441,Brandon Dowdy,2009,UC Riverside,Guard,188,90,Success
+442,Xavier Hansbro,2009,Georgia St.,Center,208,104,Success
+443,Jack McGillis,2009,Montana,Forward,198,99,Success
+444,Juston Hairston,2009,Western Michigan,Forward,196,97,Success
+445,Beau Albrechtson,2009,Hawaii,Guard,193,92,Success
+446,Drummond Jones,2009,Mississippi Valley St.,Forward,196,92,Success
+447,Julius Cheeks,2009,Mississippi Valley St.,Guard,188,86,Success
+448,Emmenle Preston,2009,Mississippi Valley St.,Forward,206,108,Success
+449,Thomas Kennedy,2009,Detroit,Forward,201,90,Success
+450,Donavan Foster,2009,Detroit,Guard,178,72,Success
+451,Michael Culpo,2009,LIU Brooklyn,Guard,185,81,Success
+452,Ryan Janer,2009,Detroit,Guard,183,83,Success
+453,Xavier Keeling,2009,Detroit,Forward,201,106,Success
+454,Arnold Mayorga,2009,LIU Brooklyn,Forward,201,102,Success
+455,Jordan Sugars,2009,Navy,Guard,190,99,Success
+456,Justin Maneri,2009,Lehigh,Center,203,108,Success
+457,Andrew Steele,2009,Alabama,Guard,193,102,Success
+458,Anthony Brock,2009,Alabama,Guard,175,74,Success
+459,JaMychal Green,2009,Alabama,Forward,203,108,Success
+460,Andre Clark,2009,Arkansas,Forward,206,102,Success
+461,Rotnei Clarke,2009,Arkansas,Guard,183,83,Success
+462,Magnum Rolle,2009,Louisiana Tech,Forward,211,102,Success
+463,Ben Voogd,2009,Oregon,Guard,185,79,Success
+464,Jarrod Randall,2009,Maryland Eastern Shore,-1,-1,-1,Failure: Did not find player
+465,Mark Engen,2009,South Dakota St.,Center,208,98,Success
+466,Jon Andersen,2009,Tulane,Forward,206,100,Success
+467,Sheyi Olaoshebikan,2009,Miami OH,-1,-1,-1,Failure: Did not find player
+468,Derek Selvig,2009,Montana,Forward,213,104,Success
+469,Kyle Bullinger,2009,Weber St.,Forward,198,97,Success
+470,Darin Mahoney,2009,Weber St.,Forward,203,102,Success
+471,Sean Watson,2009,Binghamton,Forward,196,83,Success
+472,Terrence Roderick,2009,UAB,Guard,198,81,Success
+473,Tramaine Pride,2009,Charlotte,-1,-1,-1,Failure: Did not find player
+474,Yannick Braimbridge,2009,Howard,-1,-1,-1,Failure: Did not find player
+475,Dion Williams,2009,New Mexico,-1,-1,-1,Failure: Did not find player
+476,Jonathan Hall,2009,St. Bonaventure,Guard,196,102,Success
+477,Michael Davenport,2009,St. Bonaventure,Guard,196,95,Success
+478,Ray Blackburn,2009,St. Bonaventure,Guard,178,83,Success
+479,Francis-Cedric Martel,2009,Richmond,Forward,198,92,Success
+480,Darrius Garrett,2009,Richmond,Center,206,95,Success
+481,Jamar Samuels,2009,Kansas St.,Forward,201,104,Success
+482,Rob Garrison,2009,Niagara,Guard,188,83,Success
+483,Lewis Jackson,2009,Purdue,Guard,175,74,Success
+484,Rickey Jasper,2009,Longwood,Guard,185,81,Success
+485,Nick Scott,2009,Tulane,-1,-1,-1,Failure: Did not find player
+486,Marc Ellis,2009,Texas Southern,-1,-1,-1,Failure: Did not find player
+487,Malcolm Lee,2009,UCLA,Guard,196,81,Success
+488,Jerime Anderson,2009,UCLA,-1,-1,-1,Failure: Did not find player
+489,Jonathan Huffman,2009,Iona,Forward,213,106,Success
+490,Brooks Ybarra,2009,Lamar,Guard,193,88,Success
+491,Anthony Miles,2009,Lamar,Guard,185,74,Success
+492,Tre Nichols,2009,Texas St.,Guard,180,77,Success
+493,Deante Jones,2009,Texas Southern,Forward,203,97,Success
+494,Ricky Boyles,2009,Texas Southern,Forward,201,97,Success
+495,Hamid Ford,2009,Texas Southern,Guard,183,0,Success
+496,John Bowman,2009,Texas St.,Guard,193,91,Success
+497,Alex Tucker,2009,Florida Atlantic,Guard,180,74,Success
+498,Chris Watson,2009,Florida Atlantic,Forward,198,95,Success
+499,Josh Bonney,2009,Elon,Guard,178,79,Success
+500,Storm Warren,2009,LSU,Forward,201,104,Success

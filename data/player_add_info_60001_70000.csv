@@ -1,0 +1,1061 @@
+,player_name,year,team,player_position,player_height,player_weight,process_status
+0,Kentrell Garnett,2021,Louisiana Lafayette,Guard,185,74,Success
+1,Judah Brown,2021,Saint Mary's,Forward,198,92,Success
+2,Nate Heise,2021,Northern Iowa,Guard,193,86,Success
+3,Kai Kostmayer,2021,Bryant,Forward,203,99,Success
+4,Manny Crump,2021,Sam Houston St.,Forward,203,92,Success
+5,Jarren Cook,2021,Sam Houston St.,Guard,193,90,Success
+6,Justin Hill,2021,Longwood,Guard,183,83,Success
+7,Chaunce Jenkins,2021,Wichita St.,Guard,193,79,Success
+8,Keith Dinwiddie Jr.,2021,San Diego St.,-1,-1,-1,Failure: Did not find player
+9,Alex Peterson,2021,Kennesaw St.,Forward,201,98,Success
+10,Demetrius Rives,2021,Kennesaw St.,Forward,193,89,Success
+11,Brandon Stroud,2021,Kennesaw St.,Guard,198,88,Success
+12,Gage Gomez,2021,UC Santa Barbara,Guard,190,86,Success
+13,Jackson Brown,2021,Albany,Guard,190,83,Success
+14,Joshua Walker,2021,Radford,Forward,201,90,Success
+15,John Hugley,2021,Pittsburgh,Forward,206,108,Success
+16,Elton Walker,2021,Austin Peay,Forward,193,90,Success
+17,Noah Collier,2021,Pittsburgh,Forward,203,95,Success
+18,Femi Odukale,2021,Pittsburgh,Guard,196,83,Success
+19,Lleyton Parker,2021,Dixie St.,Guard,190,88,Success
+20,JaDun Michael,2021,Elon,Guard,196,83,Success
+21,Colin Granger,2021,Ohio,Forward,206,104,Success
+22,Rifen Miguel,2021,Ohio,Forward,203,108,Success
+23,JT Shumate,2021,Toledo,Forward,201,95,Success
+24,Jalin Anderson,2021,Loyola Marymount,Guard,193,80,Success
+25,Christian Shumate,2021,Tulsa,Guard,198,83,Success
+26,Ari Seals,2021,Tulsa,Guard,190,72,Success
+27,Woody Newton,2021,Syracuse,Forward,203,90,Success
+28,E.J. Clark,2021,Alabama St.,Guard,180,72,Success
+29,Sam Mervis,2021,Indiana St.,Guard,180,78,Success
+30,Luka Eller,2021,Miami OH,Forward,201,99,Success
+31,Jackson Ames,2021,Miami OH,Center,211,108,Success
+32,Jace Howard,2021,Michigan,Guard,201,95,Success
+33,Max Burchill,2021,South Dakota,Guard,188,89,Success
+34,Cem Kirciman,2021,Green Bay,Forward,203,99,Success
+35,Taj Thweatt,2021,West Virginia,Forward,201,95,Success
+36,Michael Matas,2021,SIU Edwardsville,Forward,203,90,Success
+37,Josiah Fulcher,2021,Bowling Green,Guard,190,81,Success
+38,Fah'Mir Ali,2021,Radford,Guard,178,81,Success
+39,Caleb Huffman,2021,Central Michigan,Guard,193,83,Success
+40,RJ Glasper,2021,Oral Roberts,Guard,183,81,Success
+41,Max Williams,2021,DePaul,Guard,178,0,Success
+42,Leyton Bickford,2021,Maine,Forward,198,92,Success
+43,Chris Osten,2021,Arizona St.,Forward,206,95,Success
+44,Ziaire Williams,2021,Stanford,Forward,203,83,Success
+45,Griffin Yaklich,2021,Illinois Chicago,Guard,198,90,Success
+46,Marcus Bagley,2021,Arizona St.,Forward,203,97,Success
+47,William Jeffress Jr.,2021,Pittsburgh,-1,-1,-1,Failure: Did not find player
+48,Mawot Mag,2021,Rutgers,Forward,201,97,Success
+49,Courvoisier McCauley,2021,DePaul,Guard,196,95,Success
+50,Kobe Elvis,2021,DePaul,Guard,188,77,Success
+51,Jalen Suggs,2021,Gonzaga,Guard,193,92,Success
+52,James Carlson,2021,Idaho St.,Forward,206,99,Success
+53,Lucas Saleh,2021,Buffalo,Forward,198,93,Success
+54,Jason Spurgin,2021,Southern Utah,Center,211,102,Success
+55,Myles Wilmoth,2021,Butler,Forward,206,97,Success
+56,Chuck Harris,2021,Butler,Guard,190,85,Success
+57,Evan Mobley,2021,USC,Forward,213,95,Success
+58,Nick Fleming,2021,Southern Utah,Guard,185,74,Success
+59,Drew Honas,2021,Kansas St.,Guard,183,77,Success
+60,Boubacar Coulibaly,2021,USC,Forward,208,88,Success
+61,Kyle Karstetter,2021,Idaho St.,Forward,201,95,Success
+62,Kyndall Davis,2021,LIU Brooklyn,Guard,196,90,Success
+63,Anthony Kabala,2021,LIU Brooklyn,Forward,203,88,Success
+64,Christian Jeanty,2021,LIU Brooklyn,Guard,190,81,Success
+65,David Mutaf,2021,Minnesota,Guard,196,86,Success
+66,Creighton Lebo,2021,North Carolina,Guard,185,72,Success
+67,Will Carius,2021,Western Illinois,Forward,201,102,Success
+68,Marty Silvera,2021,Saint Peter's,Guard,183,86,Success
+69,Erik Talton,2021,Western Illinois,Guard,185,70,Success
+70,Charles Mendys,2021,Elon,Guard,183,81,Success
+71,Jake kosakowski,2021,UC San Diego,Forward,198,91,Success
+72,Bryce Pope,2021,UC San Diego,Guard,190,83,Success
+73,Romeao Ferguson,2021,Lipscomb,Guard,196,83,Success
+74,Joe Moon IV,2021,Bryant,-1,-1,-1,Failure: Did not find player
+75,Elijah Wood,2021,Nebraska,Guard,196,78,Success
+76,Alex Huibregste,2021,Wright St.,-1,-1,-1,Failure: Did not find player
+77,Eduardo Andre,2021,Nebraska,Center,208,103,Success
+78,Lu'Cye Patterson,2021,Missouri St.,Guard,185,104,Success
+79,Nelly Junior Joseph,2021,Iona,-1,-1,-1,Failure: Did not find player
+80,Lj Cryer,2021,Baylor,Guard,185,83,Success
+81,Kendrick Gilbert,2021,UNLV,Forward,196,86,Success
+82,Saquan Singleton,2021,New Mexico,Guard,198,86,Success
+83,Isaiah Marin,2021,New Mexico,Guard,196,83,Success
+84,Shaquan Jules,2021,Radford,Forward,201,106,Success
+85,Quentin Hodge,2021,USC Upstate,Guard,196,81,Success
+86,Zach Loveday,2021,Baylor,Forward,213,97,Success
+87,Xavier Lipscomb,2021,Radford,Guard,188,88,Success
+88,Dave Dickerson III,2021,USC Upstate,-1,-1,-1,Failure: Did not find player
+89,Bobby Harvey,2021,IUPUI,Guard,190,90,Success
+90,Dawson Baker,2021,UC Irvine,Guard,190,81,Success
+91,Isaiah Wilson,2021,Richmond,Guard,183,72,Success
+92,Sam Towns,2021,Ohio,Guard,193,0,Success
+93,Demarcus Sharp,2021,Missouri St.,Guard,190,77,Success
+94,Thailand Elder,2021,Louisiana Tech,Guard,188,77,Success
+95,Zaakir Sawyer,2021,Louisiana Monroe,Guard,196,97,Success
+96,Raphe Ayres,2021,Missouri St.,Guard,196,92,Success
+97,Drake Jeffries,2021,Wyoming,Guard,196,83,Success
+98,Zed Key,2021,Ohio St.,Forward,203,111,Success
+99,Cameron Matthews,2021,Mississippi St.,Forward,201,99,Success
+100,Grant Coleman,2021,Milwaukee,Forward,201,104,Success
+101,Tony Toney,2021,UAB,Guard,188,88,Success
+102,Justin Lewis,2021,Marquette,Forward,201,106,Success
+103,Oso Ighodaro,2021,Marquette,Forward,206,92,Success
+104,Terence Lewis II,2021,North Texas,-1,-1,-1,Failure: Did not find player
+105,Simeon Kirkland,2021,UAB,Forward,208,104,Success
+106,Dylan Engler,2021,The Citadel,Guard,196,83,Success
+107,Chaz Lanier,2021,North Florida,Guard,193,79,Success
+108,Jacob Crews,2021,North Florida,Guard,201,90,Success
+109,Zac Triplett,2021,Portland,Guard,196,74,Success
+110,Gabe O'Neal,2021,Kent St.,Forward,201,108,Success
+111,Jalen Harris,2021,Cal St. Fullerton,Guard,178,68,Success
+112,Theo Hughes,2021,Northern Colorado,Center,213,117,Success
+113,JJ Platt,2021,Jacksonville St.,Guard,185,81,Success
+114,Bryan Griffin,2021,Xavier,Forward,203,104,Success
+115,Wil Tattersall,2021,UC Riverside,Guard,196,89,Success
+116,Desmond Polk,2021,SIU Edwardsville,Guard,193,79,Success
+117,Aidan Fisch,2021,Pittsburgh,Forward,196,90,Success
+118,Khalen Robinson,2021,Arkansas,Guard,183,79,Success
+119,Moses Moody,2021,Arkansas,Guard,198,92,Success
+120,Paris Dawson,2021,Portland St.,Guard,188,74,Success
+121,Keith Lamar,2021,Stetson,Guard,198,86,Success
+122,Kiimani Holt,2021,Portland St.,Guard,193,86,Success
+123,GianCarlo Valdez,2021,Stetson,Guard,190,77,Success
+124,Teiano Hardee,2021,Sacramento St.,Guard,196,97,Success
+125,LeChaun DuHart,2021,Maine,Guard,180,79,Success
+126,Matias Prock,2021,Maine,Guard,188,83,Success
+127,Malik Brooks,2021,Canisius,Guard,188,86,Success
+128,Adefolalrin Adetogun,2021,Maine,-100,-100,-100,Failure: Other Error
+129,Kyle LeGreair,2021,Detroit,Guard,183,81,Success
+130,Wol Maiwen,2021,Maine,Forward,193,83,Success
+131,Joey Liedel,2021,Detroit,Guard,185,79,Success
+132,Jonathan Komagum,2021,Toledo,Forward,206,97,Success
+133,Te'Jon Sawyer,2021,Cal Baptist,Forward,203,122,Success
+134,Shamir Bogues,2021,Tarleton St.,Guard,193,86,Success
+135,Roman Garcia,2021,Tarleton St.,Guard,178,74,Success
+136,Devon House,2021,UMKC,Forward,201,127,Success
+137,Steven Verplancken Jr.,2021,Southern Illinois,-1,-1,-1,Failure: Did not find player
+138,Carlton Linguard Jr.,2021,Kansas St.,-1,-1,-1,Failure: Did not find player
+139,Ben Carlson,2021,Wisconsin,Forward,206,98,Success
+140,Jon Willeman,2021,New Hampshire,Guard,188,77,Success
+141,Jabe Mullins,2021,Saint Mary's,Guard,196,86,Success
+142,Steven Crowl,2021,Wisconsin,Forward,213,98,Success
+143,Mitchell Saxen,2021,Saint Mary's,Center,208,104,Success
+144,K.J. McClurg,2021,New Hampshire,Guard,193,81,Success
+145,Chris Childs,2021,Bryant,Guard,190,88,Success
+146,Leemet Bockler,2021,Saint Mary's,Guard,198,97,Success
+147,Thomas Howell,2021,Louisiana Monroe,Forward,203,102,Success
+148,Mikey Howell,2021,UC San Diego,Guard,190,74,Success
+149,Jace Roquemore,2021,UC San Diego,Guard,196,72,Success
+150,Martin Tombe,2021,UC San Diego,Forward,198,94,Success
+151,Justin Pratt,2021,UC San Diego,Guard,190,86,Success
+152,Toni Rocak,2021,UC San Diego,Forward,203,99,Success
+153,Kaden Rasheed,2021,UC San Diego,Guard,185,83,Success
+154,Javion May,2021,Sam Houston St.,Guard,188,86,Success
+155,Donavan Yap,2021,UNLV,Guard,190,79,Success
+156,Triston Broughton,2021,San Diego St.,Guard,193,86,Success
+157,Che Evans,2021,San Diego St.,Forward,196,95,Success
+158,Tyler Broughton,2021,San Diego St.,Guard,193,86,Success
+159,Eoin Nelson,2021,Wyoming,Forward,208,102,Success
+160,Jeremiah Oden,2021,Wyoming,Forward,203,81,Success
+161,Mark Paterson,2021,Baylor,Guard,185,81,Success
+162,John Treanor,2021,Mercer,Forward,198,95,Success
+163,Chris Parker,2021,Liberty,Guard,196,83,Success
+164,Peyton Urbancic,2021,Tulsa,Guard,198,83,Success
+165,D'Maurian Williams,2021,Gardner Webb,Guard,196,88,Success
+166,"Colin Golson, Jr.",2021,Siena,-1,-1,-1,Failure: Did not find player
+167,Jamal Burke,2021,Radford,Forward,208,108,Success
+168,Jamaine Mann,2021,Gardner Webb,Guard,198,102,Success
+169,Phillip Russell,2021,Saint Louis,Guard,178,74,Success
+170,Trey Hall,2021,Evansville,Forward,206,90,Success
+171,Marques Warrick,2021,Northern Kentucky,Guard,188,77,Success
+172,Luke House,2021,Drexel,Guard,193,95,Success
+173,D'Marcus Hall,2021,Louisiana Monroe,Guard,196,92,Success
+174,Darrick Jones Jr.,2021,Towson,-1,-1,-1,Failure: Did not find player
+175,Matt Zona,2021,Notre Dame,Forward,206,110,Success
+176,Justin Gibson,2021,Louisiana Monroe,Guard,193,88,Success
+177,Emmette Page,2021,Evansville,Guard,188,81,Success
+178,Trey Robinson,2021,Northern Kentucky,Guard,198,90,Success
+179,Nicholas Bassett,2021,Colorado St.,-1,-1,-1,Failure: Did not find player
+180,Jordan Sears,2021,Gardner Webb,Guard,180,79,Success
+181,Garrett Hien,2021,Furman,Forward,206,92,Success
+182,Lou Demuth,2021,Chicago St.,Center,213,106,Success
+183,Coleman Stucke,2021,Northeastern,Forward,201,99,Success
+184,Freddie Dybala,2021,Cal Baptist,Guard,190,86,Success
+185,Jaelen McGlone,2021,Rider,Guard,193,92,Success
+186,Jaron Williams,2021,Tennessee Martin,Guard,198,95,Success
+187,Drew Thelwell,2021,Morehead St.,Guard,190,83,Success
+188,Tekorian Smith,2021,Kent St.,Guard,193,83,Success
+189,Alex Kotov,2021,Illinois St.,Forward,208,97,Success
+190,Johni Broome,2021,Morehead St.,Forward,208,106,Success
+191,Lawrence Foreman,2021,Rider,Forward,206,106,Success
+192,Kasen Jennings,2021,Kennesaw St.,Guard,190,88,Success
+193,Jacob Nicolds,2021,Dixie St.,Forward,196,99,Success
+194,Nate Lacewell,2021,San Jose St.,Forward,206,88,Success
+195,Trent Hudgens Jr.,2021,Santa Clara,-1,-1,-1,Failure: Did not find player
+196,Michael Eads,2021,Appalachian St.,Guard,193,90,Success
+197,Sebastian Mendoza,2021,San Jose St.,Guard,190,88,Success
+198,Kirshon Thrash,2021,Presbyterian,Forward,190,97,Success
+199,Bryson Morehead,2021,Arkansas,Forward,203,72,Success
+200,Efe Abogidi,2021,Washington St.,Center,208,102,Success
+201,Godsgift Ezedinma,2021,Incarnate Word,Forward,201,90,Success
+202,Ryan Leonard,2021,Eastern Illinois,Guard,193,90,Success
+203,Brayan Au,2021,Louisiana Lafayette,Guard,193,86,Success
+204,Javontae Hopkins,2021,Tarleton St.,Guard,183,74,Success
+205,Cadarius Baggett,2021,Tarleton St.,Guard,185,81,Success
+206,Caleb Golden,2021,Tarleton St.,Guard,193,86,Success
+207,Tobin Kund,2021,Cal Baptist,Guard,185,83,Success
+208,Maj Dusanic,2021,San Francisco,Forward,203,97,Success
+209,Truman Brown,2021,Utah Valley,Guard,190,83,Success
+210,R.J. Blakney,2021,Dayton,Forward,198,88,Success
+211,AJ Rainey,2021,Nicholls St.,Guard,178,70,Success
+212,Malik Wade,2021,Cal Baptist,Forward,203,106,Success
+213,Josh Bell,2021,St. Bonaventure,Guard,196,86,Success
+214,Trey Thomas,2021,Vanderbilt,Guard,180,74,Success
+215,Churchill Bounds,2021,Central Arkansas,Center,208,117,Success
+216,Kayo Goncalves,2021,South Alabama,Forward,203,96,Success
+217,Carter Gilmore,2021,Wisconsin,Forward,201,97,Success
+218,Erickson Bans,2021,Bryant,Guard,180,74,Success
+219,Jason King,2021,New Mexico St.,Guard,175,0,Success
+220,Donovan Williams,2021,Oklahoma St.,Guard,183,84,Success
+221,Jovan Tucker,2021,Mercer,Guard,190,79,Success
+222,Kasparas Jonauskas,2021,Sacred Heart,Forward,198,84,Success
+223,Kenneth Womack,2021,Sacred Heart,Guard,180,84,Success
+224,Mark Jaakson,2021,Southern Miss,Guard,203,95,Success
+225,Naseem Khalid,2021,Morgan St.,-1,-1,-1,Failure: Did not find player
+226,Will Loughlin,2021,Colorado,Forward,208,113,Success
+227,Jaron Pierre Jr.,2021,Southern Miss,-1,-1,-1,Failure: Did not find player
+228,Nique Clifford,2021,Colorado,Guard,196,79,Success
+229,L Simpson,2021,Loyola Marymount,Guard,188,84,Success
+230,Taylor Blanchard,2021,Nicholls St.,Forward,196,74,Success
+231,Justin Wright,2021,North Carolina Central,Guard,196,99,Success
+232,Isaiah Addo-Ankrah,2021,UTSA,Guard,198,81,Success
+233,Malachy Caffrey,2021,Pepperdine,Guard,185,79,Success
+234,Artan Jabbar,2021,UTSA,Guard,180,77,Success
+235,Jonathan Bolden,2021,UMKC,Forward,201,102,Success
+236,DeAndre Henry,2021,Nevada,Forward,201,102,Success
+237,Colby Jones,2021,Xavier,Guard,196,88,Success
+238,Malik Henry,2021,George Mason,Forward,203,88,Success
+239,Gedeon Buzangu,2021,Idaho St.,Forward,203,106,Success
+240,Kasean Pryor,2021,Boise St.,Guard,206,85,Success
+241,Mady Sissoko,2021,Michigan St.,Center,206,106,Success
+242,Jamie Bergens,2021,Oral Roberts,Guard,188,83,Success
+243,Ethan Kilgore,2021,Idaho,Guard,196,92,Success
+244,Tanner Christensen,2021,Idaho,Forward,208,117,Success
+245,Kendall McHugh,2021,Idaho,Guard,185,73,Success
+246,DeAndre Robinson,2021,Idaho,Guard,196,92,Success
+247,Burke Smith,2021,Boise St.,Forward,211,96,Success
+248,Davis Smith,2021,Michigan St.,Guard,185,83,Success
+249,Malique Jacobs,2021,Kent St.,Guard,193,86,Success
+250,Mark Sears,2021,Ohio,Guard,185,83,Success
+251,Jordan Hall,2021,Saint Joseph's,Guard,203,95,Success
+252,Vince Cole,2021,St. John's,Guard,198,83,Success
+253,Posh Alexander,2021,St. John's,Guard,183,92,Success
+254,Aidan Carpenter,2021,Siena,Guard,196,83,Success
+255,Jaemyn Brakefield,2021,Duke,Forward,203,97,Success
+256,J'Vonne Hadley,2021,Northeastern,Guard,198,90,Success
+257,Emorie Knox,2021,Charleston Southern,Guard,183,77,Success
+258,Matt Cross,2021,Miami FL,Forward,201,102,Success
+259,Tony Sanders Jr.,2021,Notre Dame,-1,-1,-1,Failure: Did not find player
+260,Darius Burford,2021,Elon,Guard,183,72,Success
+261,Brandon Harris,2021,Elon,Forward,206,0,Success
+262,Keegan Harvey,2021,College of Charleston,Forward,211,99,Success
+263,Earl Timberlake,2021,Miami FL,Guard,198,97,Success
+264,Tristan Ikpe,2021,Sam Houston St.,Forward,198,95,Success
+265,Michael Graham,2021,Elon,Forward,206,0,Success
+266,Ashton Myles-Devore,2021,Louisville,Guard,183,77,Success
+267,Kylen Milton,2021,Western Kentucky,Guard,193,86,Success
+268,Keshawn Williams,2021,Tulsa,Guard,190,79,Success
+269,Jacob Falko,2021,Gardner Webb,Guard,188,81,Success
+270,Mardrez McBride,2021,North Texas,Guard,188,80,Success
+271,Jordan Polynice,2021,Chicago St.,Guard,198,79,Success
+272,Rubin Jones,2021,North Texas,Guard,196,83,Success
+273,Tyrone Simos-Primerano,2021,Gardner Webb,Guard,201,86,Success
+274,Shemar Rathan-Mayes,2021,Youngstown St.,Guard,180,74,Success
+275,Cheick Traore,2021,Youngstown St.,Forward,203,99,Success
+276,R.J. Weise,2021,Rider,Guard,183,83,Success
+277,Boogie Anderson,2021,South Dakota,Guard,190,84,Success
+278,Jayden Johnson,2021,Illinois St.,Guard,198,88,Success
+279,Marcus Garrett,2021,Morehead St.,Guard,196,88,Success
+280,Brantly Stevenson,2021,Cal Poly,Forward,193,83,Success
+281,Eric Moenkhaus,2021,Denver,Guard,190,81,Success
+282,Dontrell McQuarter,2021,Rider,Guard,201,81,Success
+283,Steven Ashworth,2021,Utah St.,Guard,185,77,Success
+284,Alijah Martin,2021,Florida Atlantic,Guard,193,83,Success
+285,VonCameron Davis,2021,Kent St.,Forward,196,95,Success
+286,Dylan Robertson,2021,Sam Houston St.,Forward,208,95,Success
+287,Aiden Terry,2021,Rutgers,Guard,180,68,Success
+288,TJ Bamba,2021,Washington St.,Guard,196,94,Success
+289,Mario Fantina,2021,Arkansas St.,Guard,193,88,Success
+290,Will Ferguson,2021,Presbyterian,Center,203,95,Success
+291,Josh Morgan,2021,Incarnate Word,Guard,188,83,Success
+292,William Mfum,2021,South Dakota St.,Guard,188,92,Success
+293,Elijah Bridgers,2021,Missouri St.,Forward,185,77,Success
+294,Jack Jamele,2021,Utah,Guard,196,81,Success
+295,Martel Williams,2021,Southern Utah,Guard,190,90,Success
+296,Rashad Holmes,2021,New Orleans,Guard,180,72,Success
+297,Luke Frazier,2021,Dayton,Guard,196,77,Success
+298,Justin Vander Baan,2021,Boston College,-1,-1,-1,Failure: Did not find player
+299,Matas Spokas,2021,Sacred Heart,Forward,201,88,Success
+300,Samkelo Cele,2021,Southern,Forward,196,95,Success
+301,Quest Harris,2021,Sacred Heart,Guard,180,83,Success
+302,Devin Davis,2021,Creighton,Forward,201,100,Success
+303,Mike Sixsmith,2021,Sacred Heart,Guard,183,77,Success
+304,Lazar Grbovic,2021,Arkansas St.,Forward,203,104,Success
+305,Lado Laku,2021,Texas A&M Corpus Chris,Forward,208,97,Success
+306,Drew Daniel,2021,Northern Iowa,Forward,198,92,Success
+307,Omar Parchman,2021,Arkansas Pine Bluff,Forward,206,97,Success
+308,Marcellus Vail,2021,Samford,Guard,188,79,Success
+309,A.J. Staton-McCray,2021,Samford,Guard,196,86,Success
+310,John Grigsby,2021,Wyoming,Forward,206,97,Success
+311,Matthew Murrell,2021,Mississippi,Guard,193,90,Success
+312,Kj Riley,2021,Alcorn St.,Guard,196,81,Success
+313,Myson Lowe,2021,Alcorn St.,Guard,178,74,Success
+314,Tajah Fraley,2021,Alcorn St.,Guard,196,88,Success
+315,Malik Hardmon,2021,Alcorn St.,Forward,198,92,Success
+316,Travonte Doolittle,2021,Arkansas Pine Bluff,-1,-1,-1,Failure: Did not find player
+317,Joshuwan Johnson,2021,Arkansas Pine Bluff,-1,-1,-1,Failure: Did not find player
+318,Byron Joshua,2021,Alcorn St.,Guard,178,83,Success
+319,Jalen Lynn,2021,Arkansas Pine Bluff,Guard,190,77,Success
+320,Zach Edey,2021,Purdue,Center,224,129,Success
+321,Lydell Elmore,2021,High Point,Forward,206,85,Success
+322,Eric Boone,2021,Georgia Southern,Guard,188,86,Success
+323,Leighton Elliott-Sewell,2021,Stony Brook,Forward,198,84,Success
+324,Chase Martin,2021,Purdue,Guard,190,88,Success
+325,Marcus Fitzgerald Jr.,2021,Tennessee St.,-1,-1,-1,Failure: Did not find player
+326,Giancarlo Sanchez,2021,Presbyterian,Forward,203,97,Success
+327,Petar Krivokapic,2021,FIU,Guard,193,90,Success
+328,Javaunte Hawkins,2021,FIU,Guard,180,72,Success
+329,K.D. Johnson,2021,Georgia,Guard,185,86,Success
+330,Anthony Mason,2021,FIU,Forward,201,113,Success
+331,Grant Weitman,2021,Arizona,Guard,193,92,Success
+332,DJ Mitchell,2021,FIU,Guard,183,72,Success
+333,Hunter-Jack Madden,2021,Idaho,Guard,185,82,Success
+334,Demetric Horton,2021,Fort Wayne,Guard,196,90,Success
+335,Quentin Jones,2021,North Carolina A&T,Guard,183,83,Success
+336,Darweshi Hunter,2021,Weber St.,Guard,196,81,Success
+337,Tanner Mans,2021,VMI,Guard,198,84,Success
+338,Tarojae Brake,2021,Saint Peter's,Guard,190,83,Success
+339,Dakota Reber,2021,Incarnate Word,Forward,198,83,Success
+340,Imran Takhar,2021,Arizona St.,Guard,190,88,Success
+341,Caleb Byrd,2021,Charlotte,Guard,185,72,Success
+342,Jacob Hutson,2021,Loyola Chicago,Center,208,108,Success
+343,Luis Rolon,2021,Florida Gulf Coast,Guard,188,92,Success
+344,Kam Woods,2021,Troy,Guard,185,77,Success
+345,Victor Rosa,2021,Florida Gulf Coast,Guard,196,85,Success
+346,Jackson Threadgill,2021,Charlotte,Guard,198,83,Success
+347,Noah Hupmann,2021,Northern Kentucky,Center,216,92,Success
+348,Zach Anderson,2021,Florida Gulf Coast,Forward,201,92,Success
+349,Nate Johnson,2021,Southeast Missouri St.,Center,206,0,Success
+350,Jake Evans,2021,Northern Kentucky,Guard,185,77,Success
+351,Jamel Horton,2021,Albany,Guard,193,86,Success
+352,Tahjae Hill,2021,Niagara,Guard,188,81,Success
+353,Cole LaRue,2021,Kennesaw St.,Forward,206,107,Success
+354,Trey Fort,2021,Tennessee Martin,Guard,193,88,Success
+355,Juston Betz,2021,Bellarmine,Guard,190,86,Success
+356,Will Amica,2021,Albany,Guard,183,77,Success
+357,JT Thor,2021,Auburn,Forward,208,92,Success
+358,Anthony Leal,2021,Indiana,Guard,196,95,Success
+359,Brandon Lieb,2021,Illinois,Center,213,95,Success
+360,Dji Bailey,2021,Richmond,Guard,196,79,Success
+361,Adam Miller,2021,Illinois,Guard,183,86,Success
+362,C.J. Roberts,2021,New Mexico St.,Guard,185,86,Success
+363,Dallion Johnson,2021,Penn St.,Guard,190,79,Success
+364,Kedrian Johnson,2021,West Virginia,Guard,190,81,Success
+365,Derrius Ward,2021,La Salle,Guard,198,77,Success
+366,Clifford Omoruyi,2021,Rutgers,Center,211,108,Success
+367,Josh Gray,2021,LSU,Guard,185,82,Success
+368,Damani Hayes,2021,South Dakota,Guard,193,101,Success
+369,Martice Mitchell,2021,Minnesota,Forward,208,86,Success
+370,Brandon Whitney,2021,Montana,Guard,185,80,Success
+371,Jalon Andrews,2021,Cal St. Fullerton,Forward,203,99,Success
+372,D.J. Dial,2021,South Dakota,Guard,173,68,Success
+373,Connor Barrett,2021,Valparaiso,Guard,198,90,Success
+374,Owen Spencer,2021,The Citadel,Forward,206,92,Success
+375,Latrell Jones,2021,Portland,Guard,196,79,Success
+376,Henry Coleman III,2021,Duke,-1,-1,-1,Failure: Did not find player
+377,Jabri Abdur-Rahim,2021,Virginia,Guard,201,97,Success
+378,Mark Williams,2021,Duke,Guard,193,95,Success
+379,Jeremy Roach,2021,Duke,Center,206,0,Success
+380,Jalen Johnson,2021,Duke,Guard,198,88,Success
+381,Tyrin Lawrence,2021,Vanderbilt,Guard,193,86,Success
+382,Reece Beekman,2021,Virginia,Guard,190,78,Success
+383,Ryan Myers,2021,Iona,Guard,185,77,Success
+384,Malik Lawrence-Anderson,2021,UT Rio Grande Valley,Forward,198,97,Success
+385,Sam'i Roe,2021,Nebraska Omaha,Guard,185,81,Success
+386,Truth Harris,2021,East Tennessee St.,Guard,185,79,Success
+387,Andre Lorentsson,2021,Saint Louis,Forward,203,92,Success
+388,Colin Schaefer,2021,Green Bay,Guard,183,77,Success
+389,Alyn Breed,2021,Providence,Guard,190,81,Success
+390,Markise Davis,2021,Arkansas St.,Guard,203,88,Success
+391,Keyon Wesley,2021,Arkansas St.,Forward,206,81,Success
+392,Caleb London,2021,Arkansas St.,Guard,193,86,Success
+393,Juwan White,2021,Stony Brook,Guard,188,83,Success
+394,Thomas Zevgaras,2021,Incarnate Word,Forward,206,97,Success
+395,Koby Brea,2021,Dayton,Guard,198,78,Success
+396,Anton Jansson,2021,Saint Joseph's,Center,211,104,Success
+397,Jesse Owens,2021,Montana St.,Guard,175,77,Success
+398,Hassan Diarra,2021,Texas A&M,Guard,188,89,Success
+399,Drake Muller,2021,Denver,Guard,193,88,Success
+400,Luke Barrett,2021,Saint Mary's,Guard,198,86,Success
+401,Jaron Rillie,2021,Samford,Guard,190,79,Success
+402,Norchad Omier,2021,Arkansas St.,-1,-1,-1,Failure: Did not find player
+403,Jalen Myers,2021,Texas A&M Corpus Chris,Forward,201,86,Success
+404,Grayson Walters,2021,Samford,Forward,196,83,Success
+405,Simeon Fryer,2021,Texas A&M Corpus Chris,Guard,196,83,Success
+406,Lamont Butler,2021,San Diego St.,Guard,183,90,Success
+407,Jaden Springer,2021,Tennessee,Guard,193,92,Success
+408,Christian Fussell,2021,Middle Tennessee,Forward,208,97,Success
+409,Korey Hess,2021,Denver,Guard,180,72,Success
+410,Oliver Hayes-Brown,2021,UC Riverside,Forward,208,95,Success
+411,Iseri Palacio,2021,Denver,Guard,183,77,Success
+412,Luke Frasso,2021,Loyola Marymount,Guard,196,86,Success
+413,Anthony Yu,2021,Loyola Marymount,Guard,188,79,Success
+414,Jordan Kwiecinski,2021,Drake,Guard,206,88,Success
+415,Bryceson Burns,2021,Drake,Guard,196,86,Success
+416,Hunter Erickson,2021,BYU,Guard,190,81,Success
+417,Carson Barrett,2021,Purdue,Guard,196,97,Success
+418,Caleb Bates,2021,UMass Lowell,Forward,201,104,Success
+419,Tai'Reon Joseph,2021,Austin Peay,Guard,185,79,Success
+420,Jaden Ivey,2021,Purdue,Guard,193,90,Success
+421,Ethan Morton,2021,Purdue,Guard,198,97,Success
+422,Anthony Blunt,2021,UMass Lowell,Guard,188,83,Success
+423,Micah Peavy,2021,Texas Tech,Guard,201,97,Success
+424,Justice Prentice,2021,Fort Wayne,Guard,185,79,Success
+425,Dylan O'Hearn,2021,NJIT,Guard,193,83,Success
+426,Ja'Juan Carr,2021,UNC Wilmington,Guard,188,81,Success
+427,Eloy Medina,2021,New Mexico,Guard,190,81,Success
+428,Kareem Thompson,2021,Oral Roberts,Forward,198,0,Success
+429,Sheldon Stevens,2021,Oral Roberts,Guard,190,72,Success
+430,Nick Farrar,2021,North Carolina St.,Forward,198,117,Success
+431,Ahamadou Fofana,2021,Canisius,Guard,185,79,Success
+432,Siem Uijtendaal,2021,Canisius,Guard,198,83,Success
+433,Ja'Von Benson,2021,South Carolina,Forward,201,113,Success
+434,Asa Beyah,2021,Canisius,Guard,190,88,Success
+435,Bryson Tatum,2021,Miami OH,Guard,193,84,Success
+436,Nehemiah Benson,2021,Rider,Forward,201,97,Success
+437,Bryce Monroe,2021,Sam Houston St.,Guard,180,77,Success
+438,Xavier Bell,2021,Drexel,Guard,190,80,Success
+439,Iyen Enaruna,2021,Evansville,Forward,206,95,Success
+440,Johnnie Williams IV,2021,Louisiana Monroe,-1,-1,-1,Failure: Did not find player
+441,Kieffer Punter,2021,Troy,Guard,196,79,Success
+442,Ja'Quavian Florence,2021,Charleston Southern,Guard,193,90,Success
+443,Marquel Bryant,2021,Troy,Guard,188,88,Success
+444,Baylor Hebb,2021,Loyola Chicago,Guard,188,77,Success
+445,Antwan Burnett,2021,Troy,Forward,196,95,Success
+446,Nick Brennen,2021,Manhattan,Guard,196,81,Success
+447,Bryce Beamer,2021,Binghamton,Forward,198,102,Success
+448,Kellen Amos,2021,Binghamton,Guard,198,81,Success
+449,Devin Tillis,2021,UNLV,Forward,198,97,Success
+450,Malik Mooving,2021,Tennessee Martin,Guard,178,77,Success
+451,Karson Stastny,2021,Utah St.,Guard,193,79,Success
+452,Colton Sandage,2021,Western Illinois,Guard,188,86,Success
+453,PJ Carter,2021,Campbell,Guard,196,77,Success
+454,David Strother,2021,Old Dominion,Guard,188,79,Success
+455,Chase Potter,2021,Utah Valley,Guard,196,83,Success
+456,Bryce Waterman,2021,Fort Wayne,Guard,198,92,Success
+457,Eddie Davis,2021,Portland,Forward,201,115,Success
+458,De'Lazarus Keys,2021,Texas A&M Corpus Chris,Forward,203,104,Success
+459,Nick Jourdain,2021,Temple,Forward,203,92,Success
+460,Devonte Lanier,2021,Tennessee St.,Forward,201,96,Success
+461,Zach Visentin,2021,Idaho St.,Center,206,117,Success
+462,David N'Guessan,2021,Virginia Tech,Forward,206,92,Success
+463,Trey Farrer,2021,Utah Valley,Forward,206,106,Success
+464,Eric Gaines,2021,LSU,Guard,193,81,Success
+465,Dante Maddox Jr.,2021,Cal St. Fullerton,-1,-1,-1,Failure: Did not find player
+466,Robbie Heath,2021,Pepperdine,Guard,190,81,Success
+467,Oskar Palmquist,2021,Rutgers,Forward,203,99,Success
+468,Nikola Zizic,2021,South Dakota,Forward,211,107,Success
+469,Asa McCord,2021,Utah Valley,Forward,198,95,Success
+470,Darius Lee,2021,Houston Baptist,Guard,198,104,Success
+471,Henry Abraham,2021,Eastern Illinois,Guard,183,79,Success
+472,Carson Towt,2021,Northern Arizona,Forward,206,102,Success
+473,Koby Jeffries,2021,UAB,Guard,190,88,Success
+474,Zimi Nwokeji,2021,Dayton,Forward,201,99,Success
+475,Bayron Matos,2021,New Mexico,Forward,206,97,Success
+476,Dishon Jackson,2021,Washington St.,Center,208,106,Success
+477,Josh Smith,2021,Stetson,Forward,196,88,Success
+478,Philip Pepple Jr.,2021,SIU Edwardsville,-1,-1,-1,Failure: Did not find player
+479,Logan Bracamonte,2021,Incarnate Word,Forward,196,86,Success
+480,Junior Madut,2021,Hawaii,Guard,196,79,Success
+481,David Jones,2021,Sacramento St.,Guard,198,0,Success
+482,Juan Felix Rodriguez,2021,Stony Brook,-1,-1,-1,Failure: Did not find player
+483,Dimitar Pandev,2021,IUPUI,Forward,208,102,Success
+484,Obinna Anochili-Killen,2021,Marshall,Forward,203,90,Success
+485,David Early,2021,Marshall,Guard,193,112,Success
+486,Pelle Larsson,2021,Utah,Guard,196,94,Success
+487,Ryan Evans,2021,Cal Poly,Forward,198,96,Success
+488,Ian Martinez,2021,Utah,Guard,190,82,Success
+489,Aidan Prukop,2021,Cal Poly,Guard,193,81,Success
+490,Luke Appel,2021,South Dakota St.,Forward,203,106,Success
+491,Jeremiah Pope,2021,Rider,Guard,193,81,Success
+492,Jordan Kellier,2021,Utah,Guard,198,99,Success
+493,Jordan Smalls,2021,Rider,Guard,201,83,Success
+494,Anthony Thomas,2021,Tennessee Martin,Guard,183,92,Success
+495,Dusan Mahorcic,2021,Illinois St.,Forward,208,104,Success
+496,Darus Maddox,2021,North Carolina A&T,-1,-1,-1,Failure: Did not find player
+497,Marque English II,2021,Northern Colorado,-1,-1,-1,Failure: Did not find player
+498,Marcus Watson Jr.,2021,Western Illinois,-1,-1,-1,Failure: Did not find player
+499,Jaden House,2021,High Point,Guard,193,91,Success
+500,Ahmil Flowers,2021,High Point,Guard,190,81,Success
+501,Alex Holt,2021,High Point,Forward,203,113,Success
+502,Bryson Childress,2021,High Point,Guard,173,63,Success
+503,Alexis Angeles,2021,Portland St.,Guard,190,86,Success
+504,Gabriel Wuor,2021,Stetson,-1,-1,-1,Failure: Did not find player
+505,Parker Long,2021,Southeast Missouri St.,Guard,188,79,Success
+506,Adam Anhold,2021,Western Illinois,Forward,203,108,Success
+507,Andrej Jakimovski,2021,Washington St.,Forward,203,97,Success
+508,Jaylon Gibson,2021,North Carolina St.,Forward,206,95,Success
+509,Ismael Plet,2021,Oral Roberts,Forward,201,99,Success
+510,Lukas Milner,2021,Boise St.,Center,208,102,Success
+511,Jonathan Alexandre,2021,Oral Roberts,Guard,198,86,Success
+512,Naje Smith,2021,Boise St.,Forward,201,91,Success
+513,Cam Hayes,2021,North Carolina St.,Guard,190,79,Success
+514,Shakeel Moore,2021,North Carolina St.,Guard,185,81,Success
+515,Pavle Kuzmanovic,2021,Boise St.,Guard,196,79,Success
+516,A.J. Hoggard,2021,Michigan St.,Guard,190,99,Success
+517,Nate Clover III,2021,Oral Roberts,-1,-1,-1,Failure: Did not find player
+518,Chibuzo Agbo,2021,Texas Tech,Guard,201,97,Success
+519,Evan Joyner,2021,Tennessee St.,Forward,203,81,Success
+520,Jackson Watson,2021,Bowling Green,Guard,185,81,Success
+521,Trevor Lakes,2021,Nebraska,Forward,201,97,Success
+522,Max Amadasun,2021,Pittsburgh,Center,208,104,Success
+523,Pavlo Dziuba,2021,Arizona St.,Forward,203,102,Success
+524,Milton Matthews,2021,North Carolina A&T,Guard,190,83,Success
+525,Jarrett Hensley,2021,UNC Greensboro,Forward,203,92,Success
+526,Cooper Cornemann,2021,South Dakota St.,Guard,188,77,Success
+527,David Walker,2021,South Alabama,Forward,193,0,Success
+528,Tyler Kolek,2021,George Mason,Guard,190,82,Success
+529,Pier-Olivier Racine,2021,Fairleigh Dickinson,Forward,203,104,Success
+530,Joe Munden Jr.,2021,Fairleigh Dickinson,-1,-1,-1,Failure: Did not find player
+531,Lincoln Ball,2021,George Washington,Guard,198,97,Success
+532,Carter Mahaney,2021,Northern Arizona,Guard,188,83,Success
+533,Miles Mendes,2021,Troy,Forward,196,102,Success
+534,Jared Garcia,2021,Charlotte,Forward,203,111,Success
+535,Marques Watson,2021,Manhattan,Guard,196,86,Success
+536,Amir Britt,2021,Manhattan,Forward,201,90,Success
+537,Joey Holifield,2021,Oakland,Guard,190,88,Success
+538,Jalen Moore,2021,Oakland,Forward,203,97,Success
+539,Trey Townsend,2021,Oakland,Forward,198,96,Success
+540,Chris Conway,2021,Oakland,Guard,188,0,Success
+541,Micah Parrish,2021,Oakland,Forward,198,81,Success
+542,Philpps Joseph,2021,Oakland,Forward,201,108,Success
+543,Edgar Padilla Jr.,2021,Illinois,-1,-1,-1,Failure: Did not find player
+544,Connor Serven,2021,Illinois,Forward,206,97,Success
+545,George Ivory III,2021,Arkansas Pine Bluff,-1,-1,-1,Failure: Did not find player
+546,Greyson Kelley,2021,Youngstown St.,Guard,188,88,Success
+547,Konstantin Dotsenko,2021,Tarleton St.,Forward,201,95,Success
+548,Tyler McGhie,2021,Western Carolina,Guard,196,85,Success
+549,Khristian Lander,2021,Indiana,Guard,188,83,Success
+550,Sin'Cere McMahon,2021,Western Carolina,Guard,185,75,Success
+551,Kennedy Miles,2021,Western Carolina,Guard,185,74,Success
+552,Javonte Johnson,2021,New Mexico,Guard,198,86,Success
+553,Nolan Dorsey,2021,New Mexico,Guard,196,83,Success
+554,Brad Halvorsen,2021,Western Carolina,Guard,183,72,Success
+555,Josh Massey,2021,Western Carolina,Guard,198,88,Success
+556,Daniel Ransom,2021,Western Carolina,Forward,196,97,Success
+557,Barlow Alleruzzo IV,2021,Eastern Illinois,-1,-1,-1,Failure: Did not find player
+558,Jamon Kemp,2021,Southeastern Louisiana,Guard,198,88,Success
+559,DJ Steward,2021,Duke,Guard,188,73,Success
+560,Evan Johnson,2021,Georgia St.,Guard,178,74,Success
+561,Cameron Thomas,2021,LSU,Guard,193,95,Success
+562,"Jamal Mashburn, Jr.",2021,Minnesota,-1,-1,-1,Failure: Did not find player
+563,Hunter Dickinson,2021,Michigan,Center,216,115,Success
+564,Vinnie Viana,2021,Tennessee Martin,Guard,185,77,Success
+565,Jaden McClanahan,2021,Utah Valley,Guard,178,79,Success
+566,Amari Williams,2021,Drexel,Forward,208,102,Success
+567,Johnell Davis,2021,Florida Atlantic,Guard,193,83,Success
+568,Jack May,2021,Florida,Forward,203,97,Success
+569,Niels Lane,2021,Florida,Guard,196,93,Success
+570,Gideon George,2021,BYU,Forward,198,86,Success
+571,Ahron Ulis,2021,Iowa,Guard,190,86,Success
+572,Jayce Catchings,2021,UC Irvine,Guard,193,86,Success
+573,Keegan Murray,2021,Iowa,Forward,203,97,Success
+574,Edin Smjecanin,2021,South Dakota,Forward,201,99,Success
+575,Jerroda Briscoe,2021,Prairie View A&M,Forward,203,72,Success
+576,Kellen Tynes,2021,Montana St.,Guard,190,74,Success
+577,Angelo Stuart,2021,Seattle,Guard,185,74,Success
+578,Jadin Booth,2021,Nebraska Omaha,Guard,188,79,Success
+579,Emeka Udenyi,2021,Seattle,Forward,198,102,Success
+580,Nic Tata,2021,Missouri St.,Forward,208,118,Success
+581,Jalen Celestine,2021,California,Guard,198,83,Success
+582,Alem Huseinovic,2021,Nevada,Guard,193,86,Success
+583,Grayson Haman,2021,North Dakota St.,Guard,190,86,Success
+584,Zahir Porter,2021,Weber St.,Guard,198,81,Success
+585,Samson Ruzhentsev,2021,Florida,Forward,201,87,Success
+586,JaKobe Coles,2021,Butler,Forward,201,102,Success
+587,Osayi Osifo,2021,Florida,Forward,201,102,Success
+588,Emory Lanier,2021,Davidson,Guard,190,81,Success
+589,Zondrick Garrett,2021,South Alabama,Forward,201,91,Success
+590,Andre Bottoms,2021,Norfolk St.,Guard,183,83,Success
+591,Russell Hyman,2021,Stephen F. Austin,Guard,185,76,Success
+592,Connor Linke,2021,Bradley,Forward,206,102,Success
+593,Darius Hannah,2021,Bradley,Forward,203,86,Success
+594,Mykell Robinson,2021,North Texas,Guard,201,92,Success
+595,Viktor Rajkovic,2021,Seattle,Forward,198,95,Success
+596,Kobe Sanders,2021,Cal Poly,Guard,198,79,Success
+597,Dionte Bostick,2021,Murray St.,Guard,188,86,Success
+598,Howard Fleming Jr.,2021,Illinois St.,-1,-1,-1,Failure: Did not find player
+599,Eden Holt,2021,Tennessee Martin,Guard,178,79,Success
+600,Noah Baylis,2021,Denver,Guard,180,74,Success
+601,Dyson Koehler,2021,Cal Poly,Forward,201,99,Success
+602,Boden Skunberg,2021,North Dakota St.,Guard,196,92,Success
+603,Alston Andrews,2021,Illinois St.,Forward,206,99,Success
+604,Sam Hines Jr.,2021,Denver,-1,-1,-1,Failure: Did not find player
+605,Jordan Potts,2021,Northwestern St.,Guard,180,77,Success
+606,Derek Fountain,2021,Mississippi St.,Forward,206,95,Success
+607,Darrion Trammell,2021,Seattle,Guard,178,74,Success
+608,Jaylin Williams,2021,Arkansas,Forward,203,104,Success
+609,Paxton Payne,2021,UMKC,Guard,188,83,Success
+610,Myles Stute,2021,Vanderbilt,Forward,201,97,Success
+611,Tyler Hankins,2021,Central Michigan,Forward,206,102,Success
+612,Duwe Farris,2021,North Carolina,Forward,198,92,Success
+613,Ibrahima Jarjou,2021,Austin Peay,Forward,203,102,Success
+614,Delaney Heard,2021,Alabama,Guard,190,89,Success
+615,Brandon Borde,2021,Rhode Island,Guard,188,86,Success
+616,Puff Johnson,2021,North Carolina,Guard,203,86,Success
+617,Joseph Bamisile,2021,Virginia Tech,Guard,193,88,Success
+618,Day'Ron Sharpe,2021,North Carolina,Forward,211,120,Success
+619,Taelon Peter,2021,Tennessee Tech,Guard,193,83,Success
+620,Darius Maddox,2021,Virginia Tech,Guard,183,68,Success
+621,BJ McLaurin,2021,UNC Asheville,Forward,201,102,Success
+622,Isaiah Jackson,2021,Kentucky,Forward,201,102,Success
+623,Isiah Dasher,2021,Portland,Guard,190,79,Success
+624,Thomas Webley,2021,Hartford,Forward,208,108,Success
+625,Gabe Wiznitzer,2021,Louisville,Center,211,108,Success
+626,Davonte Davis,2021,Arkansas,Guard,190,81,Success
+627,Trace Young,2021,Colorado St.,Forward,203,81,Success
+628,Isaiah Rivera,2021,Colorado St.,Guard,196,94,Success
+629,Dre Davis,2021,Louisville,-1,-1,-1,Failure: Did not find player
+630,Brad Colbert,2021,Louisville,Guard,188,83,Success
+631,JJ Traynor,2021,Louisville,Forward,203,90,Success
+632,Terrence Clarke,2021,Kentucky,Guard,201,87,Success
+633,Mark Hatch,2021,Dixie St.,Guard,183,86,Success
+634,Justin Brookens,2021,Western Illinois,Guard,175,79,Success
+635,Matteo Picarelli,2021,UMBC,Guard,188,81,Success
+636,Brendan Davis,2021,UMBC,Guard,183,72,Success
+637,Jarod Greene,2021,Dixie St.,Forward,206,115,Success
+638,Hunter Schofield,2021,Dixie St.,Forward,203,102,Success
+639,Thomas Reid,2021,UMBC,Guard,188,70,Success
+640,Johan Crafoord,2021,Iona,Forward,206,104,Success
+641,Caileb Brown,2021,Detroit,Guard,183,70,Success
+642,Devontae Blanton,2021,Eastern Kentucky,Forward,198,97,Success
+643,Tafari Simms,2021,Milwaukee,Forward,201,96,Success
+644,Selton Miguel,2021,Kansas St.,Guard,193,95,Success
+645,Rory Pantophlet,2021,Troy,Forward,208,104,Success
+646,Dom London,2021,Florida Gulf Coast,Guard,185,74,Success
+647,Tyler Brelsford,2021,George Washington,Guard,193,79,Success
+648,Supreme Cook,2021,Fairfield,Forward,206,90,Success
+649,Connor Creech,2021,Northern Colorado,Guard,196,83,Success
+650,Tony Perkins,2021,Iowa,Guard,193,95,Success
+651,Fred Odhiambo,2021,Georgia Southern,Center,211,95,Success
+652,Amound Anderson,2021,Cal St. Northridge,Guard,190,83,Success
+653,Julian Strawther,2021,Gonzaga,Guard,201,92,Success
+654,Jamahri Harvey,2021,UNC Wilmington,Guard,196,79,Success
+655,Melvin Edwards Jr.,2021,Charleston Southern,-1,-1,-1,Failure: Did not find player
+656,Duke Miles,2021,Troy,Guard,188,79,Success
+657,Clarence Jackson,2021,Wichita St.,Guard,190,85,Success
+658,Jaden Seymour,2021,Wichita St.,Forward,206,92,Success
+659,Jordan Geronimo,2021,Indiana,Forward,198,99,Success
+660,Ricky Council IV,2021,Wichita St.,-1,-1,-1,Failure: Did not find player
+661,Trevin Wade,2021,Wichita St.,Guard,180,79,Success
+662,Max Brooks,2021,UMass Lowell,Forward,201,92,Success
+663,Chris Youngblood,2021,Kennesaw St.,Guard,193,96,Success
+664,DeSean Woods,2021,Southern,Guard,183,74,Success
+665,Terrance Williams II,2021,Michigan,-1,-1,-1,Failure: Did not find player
+666,Matthew Wickizer,2021,Utah St.,Forward,206,95,Success
+667,"Lamar Oden, Jr.",2021,Drexel,-1,-1,-1,Failure: Did not find player
+668,Tobias Rotegaard,2021,UAB,Forward,201,90,Success
+669,Jalen Cook,2021,LSU,Guard,183,92,Success
+670,Zeb Jackson,2021,Michigan,Guard,196,81,Success
+671,La-Quiem Walker,2021,Tennessee Martin,Forward,206,108,Success
+672,Zahar Vedischev,2021,Utah St.,Guard,198,81,Success
+673,Ndongo Ndaw,2021,Indiana St.,Center,203,99,Success
+674,John Square Jr.,2021,Fairleigh Dickinson,-1,-1,-1,Failure: Did not find player
+675,Wynton Brown,2021,Northern Arizona,Forward,203,97,Success
+676,Christian Turner,2021,Troy,Guard,178,81,Success
+677,Sam Mennenga,2021,Davidson,Forward,206,111,Success
+678,Nicholas Boyd,2021,Florida Atlantic,Guard,190,77,Success
+679,Tyler Patterson,2021,Montana St.,Guard,203,81,Success
+680,Touba Traore,2021,Niagara,Forward,211,95,Success
+681,Wendell Green Jr.,2021,Eastern Kentucky,-1,-1,-1,Failure: Did not find player
+682,Trey Bonham,2021,VMI,Guard,183,77,Success
+683,Francesco Borra,2021,UC Davis,Forward,211,113,Success
+684,Jordan Brooks,2021,Iona,Guard,175,74,Success
+685,Dwayne Koroma,2021,Iona,Forward,203,86,Success
+686,Dylan Branson,2021,Southeast Missouri St.,Guard,196,99,Success
+687,Robert Hutchens,2021,Seattle,Guard,193,86,Success
+688,Tyler Fricke,2021,Valparaiso,Guard,185,77,Success
+689,Devin Evans,2021,Nebraska Omaha,Forward,206,90,Success
+690,Nate Robinson,2021,Seattle,Guard,175,81,Success
+691,DJ Nussbaum,2021,VMI,Center,206,104,Success
+692,Bryce Johnson,2021,Sacred Heart,Guard,190,83,Success
+693,Max Shulga,2021,Utah St.,Guard,193,89,Success
+694,Lunden Taylor,2021,UC San Diego,Guard,190,81,Success
+695,Grant Nelson,2021,North Dakota St.,Forward,208,97,Success
+696,Isaiah Pope,2021,Dixie St.,Guard,196,90,Success
+697,Demaree King,2021,Jacksonville St.,Guard,183,81,Success
+698,Andrew Anderson,2021,South Alabama,Guard,178,77,Success
+699,DeAndre Heckard,2021,Stephen F. Austin,Guard,185,78,Success
+700,Demarion Bariffe-Smith,2021,Jackson St.,Forward,196,83,Success
+701,Jayson Kent,2021,Bradley,Guard,201,83,Success
+702,Justin Taphorn,2021,Wisconsin,Guard,196,89,Success
+703,Jamal West,2021,South Alabama,Guard,190,0,Success
+704,Thomas Hall,2021,Bradley,Forward,201,99,Success
+705,A.J. McGinnis,2021,UNC Greensboro,Guard,190,81,Success
+706,JaCobi Wood,2021,Belmont,Guard,188,81,Success
+707,Seny Ndiaye,2021,West Virginia,Forward,208,106,Success
+708,Kadary Richmond,2021,Syracuse,Forward,196,81,Success
+709,Even Brauns,2021,Belmont,Center,206,113,Success
+710,Cameron Sheffield,2021,Rice,Guard,198,81,Success
+711,Meikkel Murray,2021,Central Michigan,Guard,198,86,Success
+712,Anthony D'Avanzo,2021,Southern Illinois,Forward,203,92,Success
+713,Greg Brown III,2021,Texas,-1,-1,-1,Failure: Did not find player
+714,George Nwogu,2021,Cal St. Northridge,Forward,203,95,Success
+715,Hollman Smith,2021,James Madison,Guard,183,81,Success
+716,Kendal Coleman,2021,Northwestern St.,Center,203,103,Success
+717,Marcus Hopkins,2021,Tennessee Tech,Center,213,104,Success
+718,Damaria Franklin,2021,Tennessee Tech,Guard,193,95,Success
+719,Tyce McNair,2021,James Madison,Guard,185,86,Success
+720,Andrew Wells,2021,Eastern Michigan,Forward,201,0,Success
+721,Kerwin Walton,2021,North Carolina,Guard,196,92,Success
+722,Jordan Burchfield,2021,Austin Peay,Guard,185,77,Success
+723,Dwon Odom,2021,Xavier,Guard,185,81,Success
+724,Edoardo Del Cadia,2021,UNLV,-1,-1,-1,Failure: Did not find player
+725,Tre Coleman,2021,Nevada,Forward,201,83,Success
+726,Eddie Creal,2021,St. Bonaventure,Guard,193,95,Success
+727,Marcus Williams,2021,Wyoming,Guard,190,92,Success
+728,Ronald Polite,2021,George Mason,Guard,188,78,Success
+729,Jonte Coleman,2021,Tennessee Martin,Guard,193,88,Success
+730,Jacob Jennissen,2021,Colorado St.,Center,211,105,Success
+731,Mayson Quartlebaum,2021,Kennesaw St.,Forward,198,108,Success
+732,Kenny Burns,2021,Kennesaw St.,Guard,188,76,Success
+733,Adetokunbo Bakare,2021,NJIT,Guard,188,83,Success
+734,Jake Lieppert,2021,Rice,Guard,190,90,Success
+735,Noble Cooper,2021,Idaho St.,Guard,198,92,Success
+736,Mekhi Gray,2021,NJIT,Guard,193,81,Success
+737,Xavier Fuller,2021,South Dakota,Guard,190,0,Success
+738,Bilal Shabazz,2021,Montana St.,Forward,203,95,Success
+739,Dalton Banks,2021,Southern Illinois,Guard,188,77,Success
+740,Ramean Hinton,2021,Western Illinois,Forward,196,81,Success
+741,Andre Curbelo,2021,Illinois,Guard,185,79,Success
+742,Kaleb Thornton,2021,Northern Illinois,Guard,183,77,Success
+743,Will Pruitt,2021,Lipscomb,Guard,188,79,Success
+744,Braden Lamar,2021,Western Illinois,Guard,196,86,Success
+745,Bennett Kwiecinski,2021,Siena,Forward,203,83,Success
+746,JJ Flores,2021,Western Illinois,Guard,190,81,Success
+747,Chinedu Okanu,2021,Northern Illinois,-1,-1,-1,Failure: Did not find player
+748,Marko Andric,2021,Little Rock,Guard,188,81,Success
+749,Marcus Niblack,2021,East Tennessee St.,Guard,185,86,Success
+750,Kamari Brown,2021,Georgia Southern,Guard,190,86,Success
+751,Bennedict Mathurin,2021,Arizona,Guard,201,88,Success
+752,Fredelin De La Cruz,2021,UT Arlington,-1,-1,-1,Failure: Did not find player
+753,Bradley Akhile,2021,Incarnate Word,Forward,201,90,Success
+754,Darnell Brodie,2021,Drake,Forward,208,124,Success
+755,Leon Ayers III,2021,Mercer,-1,-1,-1,Failure: Did not find player
+756,Rashad Smith,2021,Grand Canyon,Forward,201,92,Success
+757,Jadrian Tracey,2021,Saint Joseph's,Forward,196,86,Success
+758,Tommaso Ferraresi,2021,Sacred Heart,Guard,193,86,Success
+759,Keon Johnson,2021,Tennessee,Guard,170,72,Success
+760,Kaleim Taylor,2021,Milwaukee,Guard,190,102,Success
+761,Montre' Gipson,2021,Tarleton St.,Guard,180,90,Success
+762,Jonathan Jackson,2021,Liberty,Forward,203,108,Success
+763,Shahada Wells,2021,UT Arlington,Guard,183,79,Success
+764,Vladislav Goldin,2021,Texas Tech,Forward,216,108,Success
+765,Seryee Lewis,2021,Kansas St.,Forward,206,104,Success
+766,Brock Gilbert,2021,Dixie St.,Guard,178,72,Success
+767,Dylan Brougham,2021,Nebraska Omaha,Center,206,88,Success
+768,Emon Washington,2021,Illinois St.,Guard,198,79,Success
+769,Rongie Gordon,2021,UAB,Forward,198,0,Success
+770,Caleb Lohner,2021,BYU,Forward,203,104,Success
+771,Otis Frazier III,2021,George Mason,-1,-1,-1,Failure: Did not find player
+772,Kaleb Scott,2021,Georgia St.,Forward,198,104,Success
+773,Nana Antwi-Boasiako,2021,Stephen F. Austin,Forward,206,99,Success
+774,Nick Gazelas,2021,Montana St.,Guard,193,86,Success
+775,Jaden Quinerly,2021,Alabama,Guard,183,70,Success
+776,Noah Taitz,2021,Stanford,Guard,190,83,Success
+777,Kaimen Lennox,2021,UMKC,Guard,188,74,Success
+778,Jay Pal,2021,Jacksonville St.,Guard,206,86,Success
+779,Semaj Henderson,2021,Jacksonville St.,Guard,188,81,Success
+780,Cameron Boozer,2021,Jacksonville,Center,208,0,Success
+781,Jordan Wilmore,2021,Missouri,Forward,221,111,Success
+782,Jalen Finch,2021,Jacksonville St.,Guard,185,74,Success
+783,Kevin Osawe,2021,Western Kentucky,Forward,198,92,Success
+784,Zameron Boozer,2021,Jacksonville,Forward,206,95,Success
+785,Marcellus Brigham Jr.,2021,Jacksonville St.,-1,-1,-1,Failure: Did not find player
+786,Jacob Ognacevic,2021,Valparaiso,Forward,203,95,Success
+787,Jason Gallant,2021,San Diego,Guard,188,81,Success
+788,Brandon Angel,2021,Stanford,Forward,203,95,Success
+789,Sheldon Edwards,2021,Valparaiso,Guard,193,81,Success
+790,Gediminas Mokseckas,2021,Campbell,Guard,193,86,Success
+791,Jacksen Greco,2021,Mercer,Guard,190,68,Success
+792,Kobe Williamson,2021,Seattle,Guard,203,102,Success
+793,Marial Mading,2021,Pacific,Forward,211,90,Success
+794,Justin Amadi,2021,James Madison,Forward,201,99,Success
+795,Brandon Boston Jr.,2021,Kentucky,-1,-1,-1,Failure: Did not find player
+796,Brad Bowditch,2021,Illinois Chicago,Guard,183,81,Success
+797,Daylan Hamilton,2021,Western Michigan,Guard,190,79,Success
+798,Pierce Spencer,2021,Nicholls St.,Guard,190,79,Success
+799,Jacob Washington,2021,Bowling Green,Forward,203,99,Success
+800,Josiah Freeman,2021,Western Michigan,Guard,193,83,Success
+801,Isaiah Richards,2021,Louisiana Lafayette,Forward,208,102,Success
+802,Quinn Strander,2021,Nicholls St.,Guard,178,79,Success
+803,Caleb Moss,2021,VMI,Forward,201,90,Success
+804,James Jordan,2021,Kent St.,Center,203,106,Success
+805,Max Adelman,2021,Vanderbilt,Guard,196,95,Success
+806,Mylyjael Poteat,2021,Rice,Forward,206,117,Success
+807,Tommy Murr,2021,Lipscomb,Guard,185,74,Success
+808,Vuk Vulikic,2021,UTEP,Guard,193,87,Success
+809,Paris Taylor,2021,Green Bay,Forward,198,90,Success
+810,Shane Feldman,2021,Syracuse,Guard,188,72,Success
+811,BJ Marable,2021,UNC Asheville,Forward,206,99,Success
+812,Micah Schnyders,2021,Eastern Illinois,Guard,193,83,Success
+813,Caden Boser,2021,UMKC,Forward,203,90,Success
+814,Szymon Zapala,2021,Utah St.,Center,211,108,Success
+815,Reece Brown,2021,UNLV,Forward,206,90,Success
+816,William Dunn,2021,Youngstown St.,Forward,203,95,Success
+817,Bakari LaStrap,2021,IUPUI,Guard,183,77,Success
+818,Chanse Robinson,2021,Buffalo,Guard,185,76,Success
+819,Kenny White Jr.,2021,Tennessee Tech,-1,-1,-1,Failure: Did not find player
+820,Carvell Teasett,2021,Northwestern St.,Guard,185,86,Success
+821,Jalen Stayton,2021,Tennessee Tech,Forward,203,92,Success
+822,Lars Nilsen,2021,Elon,Guard,193,91,Success
+823,Nick Carlson,2021,Cal Poly,Guard,183,70,Success
+824,Austin Harvell,2021,Tennessee Tech,Forward,198,97,Success
+825,Kiyron Powell,2021,Houston,Center,203,92,Success
+826,Jayden Stone,2021,Grand Canyon,Guard,193,81,Success
+827,Dalen Terry,2021,Arizona,Guard,201,88,Success
+828,Tibet Gorener,2021,Arizona,Forward,206,90,Success
+829,Azuolas Tubelis,2021,Arizona,Forward,211,111,Success
+830,Max Klesmit,2021,Wofford,Guard,190,81,Success
+831,Sam Godwin,2021,Wofford,Forward,206,95,Success
+832,Nick Pringle,2021,Wofford,Forward,203,90,Success
+833,Tautvilas Tubelis,2021,Arizona,Forward,201,102,Success
+834,Kerr Kriisa,2021,Arizona,Guard,190,81,Success
+835,Keondre Montgomery,2021,Mississippi St.,Guard,201,90,Success
+836,Lachlan Bofinger,2021,UTSA,Forward,198,97,Success
+837,Luke Champion,2021,Samford,Forward,203,79,Success
+838,Kyler Filewich,2021,Southern Illinois,Center,206,113,Success
+839,Conner Turner,2021,Idaho St.,Center,216,102,Success
+840,Luke Kasubke,2021,Kansas St.,Guard,196,86,Success
+841,Myles Tate,2021,Butler,Guard,170,71,Success
+842,Kareem Watkins,2021,Kentucky,Guard,173,65,Success
+843,Darius Harding,2021,Northern Kentucky,Guard,193,97,Success
+844,Dominick Harris,2021,Gonzaga,Guard,190,86,Success
+845,Nimari Burnett,2021,Texas Tech,Guard,193,88,Success
+846,Devin Butler,2021,VMI,Guard,188,88,Success
+847,RJ Davis,2021,North Carolina,Guard,183,72,Success
+848,Bol Tong,2021,New Orleans,Forward,206,97,Success
+849,Justin Powell,2021,Auburn,Guard,198,92,Success
+850,Kailen Rains,2021,Cal St. Northridge,Guard,198,88,Success
+851,Devon Hancock,2021,Milwaukee,Guard,190,86,Success
+852,C.J. Wilcher,2021,Xavier,Guard,196,88,Success
+853,Dylan Cardwell,2021,Auburn,Center,211,113,Success
+854,Alex Merkviladze,2021,Cal St. Northridge,Forward,206,102,Success
+855,Eric Butler,2021,Southern Illinois,Forward,201,0,Success
+856,Atin Wright,2021,Cal St. Northridge,Guard,185,72,Success
+857,Isiah Warfield,2021,Liberty,Guard,193,74,Success
+858,Dericko Williams,2021,UNC Greensboro,Forward,203,99,Success
+859,Jake Cook,2021,LIU Brooklyn,Forward,206,74,Success
+860,Jeff Woodward,2021,Colgate,Center,211,120,Success
+861,Kyle Jenkins,2021,Lafayette,Forward,201,96,Success
+862,Ryan Zambie,2021,Lafayette,Guard,190,86,Success
+863,Mikeal Brown-Jones,2021,VCU,Forward,203,95,Success
+864,Johnny Brown,2021,Florida A&M,Forward,198,0,Success
+865,Sam Thomson,2021,Colgate,Forward,206,99,Success
+866,Ronnie DeGray III,2021,Massachusetts,-1,-1,-1,Failure: Did not find player
+867,Frantisek Barton,2021,Mount St. Mary's,Forward,201,95,Success
+868,Winston Moore,2021,Mount St. Mary's,Center,198,0,Success
+869,Adrian Baldwin Jr.,2021,VCU,-1,-1,-1,Failure: Did not find player
+870,Jon Brantley,2021,Lafayette,Guard,190,86,Success
+871,Ben Craig,2021,Davidson,Guard,185,86,Success
+872,Kenyon Holcombe,2021,Incarnate Word,Forward,201,95,Success
+873,Deuce Turner,2021,Bucknell,Guard,188,82,Success
+874,Josh Reaves,2021,Mount St. Mary's,Guard,196,97,Success
+875,Quinton Mincey,2021,Mount St. Mary's,Forward,198,81,Success
+876,Dyondre Dominguez,2021,Massachusetts,Forward,203,92,Success
+877,Cairo McCrory,2021,Massachusetts,Guard,196,86,Success
+878,Dante Gonzales,2021,Tennessee Martin,Guard,193,77,Success
+879,Tyler Chatman,2021,Hampton,Guard,190,81,Success
+880,Josh Adoh,2021,Bucknell,Guard,190,99,Success
+881,Andre Screen,2021,Bucknell,Center,213,104,Success
+882,Dakota Leffew,2021,Mount St. Mary's,Guard,196,83,Success
+883,Kaodirichi Akobundu-Ehiog,2021,UT Arlington,-1,-1,-1,Failure: Did not find player
+884,Javohn Garcia,2021,Massachusetts,Guard,188,81,Success
+885,Alex Capitano,2021,Colgate,Guard,193,88,Success
+886,Brady Antonopoulos,2021,Massachusetts,Guard,185,74,Success
+887,DaJion Humphrey,2021,Holy Cross,Guard,193,79,Success
+888,Malcolm Townsel,2021,Holy Cross,Guard,196,92,Success
+889,Jacob Harvey,2021,Incarnate Word,Forward,206,83,Success
+890,Louth-M Coulibaly,2021,Holy Cross,Forward,203,99,Success
+891,Judson Martindale,2021,Holy Cross,Guard,198,92,Success
+892,Caelan Jones,2021,Boston University,Guard,196,86,Success
+893,Miles Brewster,2021,Boston University,Guard,190,79,Success
+894,Anthony Morales,2021,Boston University,Guard,203,88,Success
+895,Jalin Sinclair,2021,Lehigh,Guard,178,82,Success
+896,R.J. Johnson,2021,Holy Cross,Guard,185,79,Success
+897,Bo Montgomery,2021,Holy Cross,Guard,196,81,Success
+898,Michael Rabinovich,2021,Holy Cross,Forward,208,99,Success
+899,Colin Smalls,2021,American,Guard,188,83,Success
+900,Christian Lorng,2021,American,Forward,206,117,Success
+901,Johnny O'Neil,2021,American,Forward,206,90,Success
+902,Matt Rogers,2021,American,Forward,206,99,Success
+903,Chris Gleaton,2021,American,Guard,190,79,Success
+904,Najee Thomas,2021,Hampton,Forward,208,95,Success
+905,Jalen Rucker,2021,Army,Guard,178,81,Success
+906,Eric Sondberg,2021,Lafayette,Guard,201,86,Success
+907,Quinnus Fletcher,2021,Troy,Guard,178,58,Success
+908,Jackson Gore,2021,Wofford,Guard,190,81,Success
+909,Josh Sanders,2021,Weber St.,Guard,188,81,Success
+910,Brock Anderson,2021,Utah Valley,Forward,203,104,Success
+911,Nehemie Kabeya,2021,North Carolina Central,Forward,206,106,Success
+912,Ryan Marcus,2021,Massachusetts,Guard,190,83,Success
+913,Charlie Peterson,2021,Army,Guard,206,101,Success
+914,Jared Cross,2021,Army,Forward,190,88,Success
+915,Kwabena Davis,2021,Army,Guard,190,82,Success
+916,Alek Delev,2021,Bucknell,Guard,183,63,Success
+917,Nigel Scantlebury,2021,Central Connecticut,Guard,185,77,Success
+918,Jamir Watkins,2021,VCU,Forward,201,95,Success
+919,Noah Jager,2021,Army,Guard,175,74,Success
+920,Zach Lezanic,2021,Army,Guard,183,74,Success
+921,Elijah Seward,2021,Hampton,Guard,183,86,Success
+922,Alonso Faure,2021,Loyola MD,Forward,208,102,Success
+923,Cade Whicker,2021,Utah Valley,Guard,193,81,Success
+924,Matt Dove,2021,Army,Guard,208,108,Success
+925,Wade Jackson,2021,Loyola MD,Guard,190,83,Success
+926,Quadry Adams,2021,Wake Forest,Guard,190,86,Success
+927,Tre Mitchell,2021,Central Connecticut,Center,206,108,Success
+928,Dominic Parolin,2021,Lehigh,Forward,203,104,Success
+929,Ben Li,2021,Lehigh,Forward,198,104,Success
+930,Jayshen Saigal,2021,Lehigh,Guard,188,79,Success
+931,Emmanuel Okpomo,2021,Wake Forest,Center,208,102,Success
+932,Lorenzo Donadio,2021,American,Guard,193,86,Success
+933,Josh Banks,2021,VCU,Guard,196,83,Success
+934,Jr. Ronell Giles,2021,St. Francis PA,-1,-1,-1,Failure: Did not find player
+935,Alexander Perry,2021,Mississippi Valley St.,Guard,198,88,Success
+936,Floyd Rideau Jr.,2021,South Carolina St.,-1,-1,-1,Failure: Did not find player
+937,Steve Settle III,2021,Howard,-1,-1,-1,Failure: Did not find player
+938,Stephan Swenson,2021,Stetson,Guard,188,88,Success
+939,Joirdon Karl Nichols,2021,Texas Southern,-1,-1,-1,Failure: Did not find player
+940,Latavian Lawrence,2021,South Carolina St.,Guard,198,95,Success
+941,Oumar Diahame,2021,Saint Peter's,Forward,208,90,Success
+942,Jamaal Thompson,2021,Tennessee Tech,Guard,178,83,Success
+943,Dylan Penn,2021,Bellarmine,Guard,190,86,Success
+944,Garrett Tipton,2021,Bellarmine,Guard,196,86,Success
+945,Zac Jennings,2021,Bellarmine,Guard,190,99,Success
+946,Alec Pfriem,2021,Bellarmine,Guard,196,92,Success
+947,James Berry III,2021,Merrimack,-1,-1,-1,Failure: Did not find player
+948,Jamille Reynolds,2021,UCF,Forward,206,104,Success
+949,Isaiah Adams,2021,UCF,Forward,198,77,Success
+950,Malik Edmead,2021,Merrimack,Guard,178,74,Success
+951,Drew Comer,2021,Bellarmine,Guard,193,83,Success
+952,Nick Thelen,2021,Bellarmine,Forward,203,92,Success
+953,CJ Fleming,2021,Bellarmine,Guard,183,81,Success
+954,Baylor Younker,2021,Bellarmine,Center,208,97,Success
+955,Hunter Brogan,2021,Bellarmine,Guard,193,83,Success
+956,Bash Wieland,2021,Bellarmine,Guard,193,92,Success
+957,Eli Roberts,2021,Bellarmine,Forward,201,99,Success
+958,Jemal Davis,2021,South Carolina St.,Forward,206,90,Success
+959,Themus Fulks,2021,South Carolina St.,Guard,185,83,Success
+960,Wesley Taylor,2021,Jackson St.,Guard,183,68,Success
+961,Jadakiss Wright,2021,South Carolina St.,Guard,183,88,Success
+962,Sebastian Guitian,2021,South Carolina St.,Forward,208,108,Success
+963,Abdallah Wague,2021,St. Francis NY,Guard,185,78,Success
+964,Vuk Stevanic,2021,St. Francis NY,Forward,203,109,Success
+965,David Muenkat,2021,St. Francis NY,Forward,201,97,Success
+966,Jeriah Coleman,2021,St. Francis PA,Forward,213,99,Success
+967,Artemios Gavalas,2021,St. John's,Guard,185,81,Success
+968,Dallas James,2021,South Carolina St.,Center,213,106,Success
+969,Davante Robinson,2021,Stetson,Guard,183,86,Success
+970,Eden Davis,2021,Texas A&M Corpus Chris,Guard,175,72,Success
+971,Micheal Tate Jr.,2021,Jackson St.,-1,-1,-1,Failure: Did not find player
+972,DeLonnie Hunt,2021,Wagner,Guard,183,72,Success
+973,Sylwester Granda,2021,Seton Hall,Guard,193,88,Success
+974,Elijah Hardison,2021,St. Francis NY,Forward,203,97,Success
+975,Zahree Harrison,2021,St. Francis PA,Guard,183,86,Success
+976,Maxwell Land,2021,St. Francis PA,Guard,193,83,Success
+977,Mateo Delmoral,2021,Monmouth,Guard,183,77,Success
+978,Quoiren Walden,2021,Mississippi Valley St.,-1,-1,-1,Failure: Did not find player
+979,Rashamel Bulter,2021,South Carolina St.,-1,-1,-1,Failure: Did not find player
+980,Treylan Smith,2021,Mississippi Valley St.,Guard,193,88,Success
+981,Carlos Rosario,2021,McNeese St.,Forward,203,99,Success
+982,Jalani Bell,2021,Jackson St.,Guard,183,86,Success
+983,Will Garvey,2021,Presbyterian,Guard,190,83,Success
+984,Joseph Octave,2021,Air Force,Guard,193,90,Success
+985,Glen McClintock,2021,Air Force,Guard,188,83,Success
+986,Logan Morrissey,2021,Air Force,Guard,193,88,Success
+987,Ryan Isaacson,2021,Merrimack,Forward,203,90,Success
+988,Kerry Richardson,2021,Texas A&M Corpus Chris,Forward,203,88,Success
+989,Derek Dickenscheidt,2021,Air Force,-1,-1,-1,Failure: Did not find player
+990,Jadan Coleman,2021,Tulane,Guard,193,77,Success
+991,Sion James,2021,Tulane,Guard,196,83,Success
+992,Elijah Allen,2021,Wagner,Guard,185,0,Success
+993,Majok Madol,2021,South Carolina St.,Forward,208,102,Success
+994,Keiondre Jefferson,2021,Mississippi Valley St.,Guard,198,86,Success
+995,Ronald Williams,2021,Mississippi Valley St.,Forward,203,97,Success
+996,Donalson Fanord,2021,Mississippi Valley St.,Forward,206,102,Success
+997,Terry Collins,2021,Mississippi Valley St.,Forward,198,86,Success
+998,Devin Gordon,2021,Mississippi Valley St.,Guard,193,95,Success
+999,Quavon Blackwood,2021,Mississippi Valley St.,Guard,183,90,Success
+1000,Kam'ron Cunningham,2021,Mississippi Valley St.,Guard,201,92,Success
+1001,Ben Callahan-Gold,2021,Tulane,Guard,201,92,Success
+1002,Hezekiah Quinlan,2021,Jackson St.,Forward,201,99,Success
+1003,Jansen Davidson JR.,2021,Ohio St.,-1,-1,-1,Failure: Did not find player
+1004,Andrew Malveaux III,2021,Texas Southern,-1,-1,-1,Failure: Did not find player
+1005,Amar Ross,2021,USC,Guard,170,68,Success
+1006,Heri Ngalamulume,2021,Tarleton St.,Center,206,104,Success
+1007,Braelon Bush,2021,McNeese St.,Guard,168,70,Success
+1008,Darryl Jordan,2021,Jackson St.,Forward,201,97,Success
+1009,Dallas Howell,2021,North Alabama,Guard,201,95,Success
+1010,Jay Moore,2021,West Virginia,Guard,196,86,Success
+1011,Austin Patterson,2021,Wofford,Guard,190,81,Success
+1012,Sal Xheraj,2021,Fairleigh Dickinson,Guard,183,82,Success
+1013,Ty Harper,2021,Louisiana Lafayette,Forward,190,79,Success
+1014,Buay Koka,2021,Detroit,Center,216,95,Success
+1015,Daveon Doolittle,2021,Arkansas Pine Bluff,Forward,201,81,Success
+1016,Kobe Hargrove,2021,Arkansas Pine Bluff,Forward,196,77,Success
+1017,Ambaka Le Gregam,2021,Presbyterian,-1,-1,-1,Failure: Did not find player
+1018,Chad Venning,2021,Morgan St.,Forward,208,127,Success
+1019,Reese Waters,2021,USC,Guard,196,95,Success
+1020,Ben Gregg,2021,Gonzaga,Forward,208,102,Success
+1021,Mustapha Amzil,2021,Dayton,Forward,208,99,Success
+1022,Babacar Diallo,2021,Saint Peter's,Forward,198,88,Success
+1023,James Graham III,2021,Maryland,-1,-1,-1,Failure: Did not find player
+1024,Carter Whitt,2021,Wake Forest,Guard,193,81,Success
+1025,Meechie Johnson Jr.,2021,Ohio St.,-1,-1,-1,Failure: Did not find player
+1026,Matt Davis,2021,Charleston Southern,Forward,196,95,Success
+1027,Leandre Howard,2021,Mississippi Valley St.,-1,-1,-1,Failure: Did not find player
+1028,Bernie Andre,2021,FIU,Forward,198,95,Success
+1029,Isaiah Folkes,2021,Charlotte,Guard,193,88,Success
+1030,Thomas Rod,2021,Murray St.,-1,-1,-1,Failure: Did not find player
+1031,Charlie Yoder,2021,Incarnate Word,Guard,193,83,Success
+1032,Andrew Deutser,2021,Texas,Guard,185,83,Success
+1033,Franck Kepnang,2021,Oregon,Center,211,102,Success
+1034,Keon Edwards,2021,DePaul,Forward,201,83,Success
+1035,Tre-Vaughn Minott,2021,South Carolina,Center,206,127,Success
+1036,Zane Butler,2021,SIU Edwardsville,Guard,180,74,Success
+1037,Isaiah Williams,2021,Jackson St.,Guard,201,86,Success
+1038,Arkel Lamar,2021,UMKC,Guard,196,106,Success
+1039,Justin Thomas,2021,Alcorn St.,Forward,198,97,Success
+1040,O.D. Ogunbo,2021,Delaware,Forward,203,92,Success
+1041,Sadaidriene Hall,2021,East Tennessee St.,Forward,196,90,Success
+1042,Gerald Doakes,2021,New Mexico St.,Guard,188,77,Success
+1043,Jordan Nesbitt,2021,Memphis,Guard,198,83,Success
+1044,Quinn Pemberton,2021,Boston College,Guard,185,95,Success
+1045,David Jones,2021,DePaul,Guard,198,0,Success
+1046,Mac Etienne,2021,UCLA,Forward,206,106,Success
+1047,Ryan Woods,2021,Arkansas Pine Bluff,Guard,196,95,Success
+1048,Jake Nichols,2021,George Mason,Guard,203,97,Success
+1049,Lysander Rehnstrom,2021,George Mason,Guard,193,86,Success
+1050,Trey James,2021,Iona,Guard,175,76,Success
+1051,Ethan Griffith,2021,Saint Joseph's,Guard,190,86,Success
+1052,Chris Arizin,2021,Saint Joseph's,Guard,196,0,Success
+1053,Abiram Frye,2021,New Orleans,Guard,188,79,Success
+1054,Kamron Battle,2021,Northern Illinois,Guard,196,81,Success
+1055,Trey Patterson,2021,Villanova,Guard,193,81,Success
+1056,Stavros Polatoglou,2021,Northwestern St.,Forward,211,99,Success
+1057,Sandy Ryan,2021,Tulane,Guard,190,74,Success
+1058,Ty Larson,2021,Texas Tech,-1,-1,-1,Failure: Did not find player
+1059,Jaden Jones,2021,Rutgers,Guard,196,86,Success
